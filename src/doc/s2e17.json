@@ -1,0 +1,38 @@
+{
+	"title": "Hearts and Hooves Day",
+	"tags": [
+		"c:CMC", 
+		"s:Song × 1",
+		"w:Meghan McCarthy",
+
+		"l:Ponyville",
+
+		"m:Cheerilee",
+		"m:Big Mac",
+		"m:Twilight Sparkle"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=0cxxD30u_rw"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E17.Hearts.and.Hooves.Day.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "http://yp1.pony.pp.ua/torrents/YP-1Z-02x17.mkv.torrent"
+		}]
+	}
+}

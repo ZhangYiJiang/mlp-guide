@@ -1,0 +1,131 @@
+.episodes header .tag {
+	background-image: url('../img/sprite.png');
+	background-repeat: no-repeat;
+}
+
+.minor-character {
+	background-color: #FFEDF2;
+	color: #4C0016;
+}
+
+.cmc {
+	background-color: #B7C9FF;
+	color: #0031BA;
+    background-position: 2px -64px;
+}
+
+.applejack {
+	background-color: #FFD89E;
+	color: #EE4043;
+    background-position: 2px -32px;
+}
+
+.fluttershy {
+	background-color: #FDF6AF;
+	color: #EB81B4;
+    background-position: 2px -96px;
+}
+
+.main {
+    background-position: 2px -192px;
+    background-color: #E8F9E0;
+	border-color: #40B50A;
+	color: #339904;
+}
+
+.pinkie-pie {
+	background-color: #FCC4DB;
+	color: #BE1D77;
+    background-position: 2px -224px;
+}
+
+.rainbow-dash {
+	background-color: #D1EDFC;
+	color: #2F94D1;
+    background-position: 2px -256px;
+}
+
+.rarity {
+    background-position: 2px -288px;
+    background-color: #EBEFF1;
+    color: #49176D;
+}
+
+.twilight-sparkle {
+	background-color: #EBC3F4;
+	color: #692287;
+    background-position: 2px -320px;
+}
+
+.sweetie-belle {
+	background-color: #EFEDEE;
+	color: #7A5888;
+	background-position: 2px -448px;
+}
+
+.scootaloo {
+	background-color: #FBBA64;
+	color: #BF1F79;
+	background-position: 2px -480px;
+}
+
+.apple-bloom {
+	background-color: #F2F7A1;
+	color: #C5234F;
+	background-position: 2px -512px;
+}
+
+.luna {
+	background-color: #373A77;
+	color: #fff;
+	background-position: 2px -544px;
+}
+
+.spike {
+	background-color: #D6EBAD;
+	color: #9A5DA1;
+	background-position: 2px -576px;
+}
+
+.celestia {
+	background-color: #FCF9FB;
+	color: #31B6BF;
+}
+
+
+.writer {
+	background-color: #e6e6e6;
+	color: #555;
+    background-position: 2px -352px;
+}
+
+.musical {
+	background-position: 2px -384px;
+}
+
+.slice-of-life {
+    background-position: 2px -128px;
+}
+
+.lore {
+    background-position: 2px -160px;
+}
+
+.adventure {
+    background-position: 4px 0;
+}
+
+.song {
+	background-position: 2px -416px;
+}
+
+.story {
+	background-color: #D2DCF4;
+	border-color: #4778ED;
+	color: #032F9E;
+}
+
+.location {
+	background-color: #F4CEA6;
+	color: #874500;
+}

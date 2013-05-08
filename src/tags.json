@@ -1,0 +1,8 @@
+{
+	"c": "character", 
+	"m": "minor-character", 
+	"w": "writer", 
+	"s": "story", 
+	"l": "location",
+	"p": "plot"
+}

@@ -1,0 +1,44 @@
+{
+	"title": "The Ticket Master", 
+
+	"tags": [
+		"c:Main 6", 
+		"s:Song × 2", 
+		"w:Lauren Faust", 
+		"w:Amy Keating Rogers", 
+
+		"l:Ponyville"
+	], 
+
+	"song": [
+
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=oOK93-ksJaA"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E03.The.Ticket.Master.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:137BE5620D77555CD7A09C4473636025E2BCDCD8"
+		}]
+
+		
+	},
+
+	"synopsis": "Princess Celestia sends Twilight Sparkle two tickets for the upcoming exclusive Grand Galloping Gala. Upon learning of the tickets, each of Twilight's new friends insists they should be the one to go with Twilight, and start giving her special treatment to earn her favor. Unwilling to pick any one friend over another, she politely returns the tickets to the Princess. To everyone's surprise, the Princess replies by sending back enough tickets for Twilight and all her friends."
+}

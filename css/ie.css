@@ -1,0 +1,9 @@
+div.filter-menu ul ul {
+	overflow: hidden;
+}
+
+div.filter-menu ul ul li {
+	width: 150px;
+	margin-right: 10px;
+	float: left;
+}

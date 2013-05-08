@@ -1,0 +1,38 @@
+{
+	"title": "A Dog and Pony Show",
+	"tags": [
+		"c:Rarity", 
+		"s:Adventure",
+		"w:Amy Keating Rogers",
+		
+		"l:Ponyville",
+
+		"m:Main 6"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=cBADtOViL9M"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E19.A.Dog.and.Pony.Show.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:6AA5E52C0230BADD47F064871A08B17FE759DE70"
+		}]
+
+		
+	}
+}

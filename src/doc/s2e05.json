@@ -1,0 +1,38 @@
+{
+	"title": "Sisterhooves Social", 
+
+	"tags": [
+		"c:Sweetie Belle", 
+		"c:Rarity", 
+		"w:Cindy Morrow",
+
+		"l:Ponyville",
+
+		"m:Applejack",
+		"m:Apple Bloom"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=-CYmFTZc5f8"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E05.Sisterhooves.Social.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "http://yp1.pony.pp.ua/torrents/YP-1Z-02x05.mkv.torrent"
+		}]
+	}
+}

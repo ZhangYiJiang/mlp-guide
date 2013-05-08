@@ -1,0 +1,38 @@
+{
+	"title": "Swarm of the Century", 
+	
+	"tags": [
+		"c:Pinkie Pie", 
+		"w:M. A. Larson",
+
+		"l:Ponyville",
+		"m:Main 6",
+		"m:Celestia"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=CQqErP6lPUY"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E10.Swarm.of.the.Century.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:836945E888D64A470D2EF04F86BD5F8BF4504361"
+		}]
+
+		
+	}
+}

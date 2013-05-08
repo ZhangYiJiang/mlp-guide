@@ -1,0 +1,43 @@
+{
+	"title": "Griffon the Brush-Off", 
+
+	"tags": [
+		"c:Rainbow Dash", 
+		"c:Pinkie Pie",
+		"s:Slice of Life",
+		"w:Cindy Morrow",
+
+		"l:Ponyville",
+
+		"m:Twilight Sparkle", 
+		"m:Fluttershy"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=t7MKYkED6NQ"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E05.Griffon.the.Brush.Off.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:D323C11FCE0D055401125F54D8A650A044C19A2F"
+		}]
+
+		
+	},
+
+	"synopsis": "Pinkie Pie and Rainbow Dash discover they share a common interest in playing harmless practical jokes on other ponies. Later, Rainbow Dash's childhood friend Gilda (Maryke Hendrikse), a griffin, arrives, and Pinkie finds herself left out of Rainbow and Gilda's activities. When Pinkie sees Gilda acting rudely towards the other ponies around town, she becomes determined to cheer her up with a party. At the party, Gilda becomes the victim of several practical jokes, and she blames Pinkie for them; however, Rainbow Dash admits to setting up the pranks, frustrating Gilda, who flies off, leaving Rainbow to reaffirm her friendship with Pinkie."
+}

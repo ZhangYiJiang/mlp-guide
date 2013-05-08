@@ -1,0 +1,41 @@
+{
+	"title": "The Mysterious Mare Do Well", 
+
+	"tags": [
+		"c:Rainbow Dash", 
+		"s:Adventure",
+		"w:Merriwether Williams",
+
+		"l:Ponyville",
+
+		"m:Main 6",
+		"m:Scootaloo",
+		"m:Mayor Mare"
+	],
+
+	"continuity": ["s1e15"],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=N69ECoj4tME"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E08.The.Mysterious.Mare.Do.Well.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "http://yp1.pony.pp.ua/torrents/YP-1Z-02x08.mkv.torrent"
+		}]
+	}
+}

@@ -1,0 +1,46 @@
+[
+	[{
+		"title": "YouTube Playlist", 
+		"class": "youtube",
+		"url": "http://www.youtube.com/playlist?list=PLcalPaw7P4tKeuNYANMhrVKOic_BN9F_4"
+	},{
+		"title": "Batch Torrent", 
+		"class": "torrent",
+		"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.Ponyship-RainbowCrash.torrent"
+	},
+	{
+		"title": "Batch Download",
+		"class": "direct",
+		"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.zip"
+	}], 
+
+	[{
+		"title": "YouTube Playlist", 
+		"class": "youtube",
+		"url": "http://www.youtube.com/playlist?list=PLcalPaw7P4tIMmu5_IZp8CTxzq54koo9Z"
+	},{
+		"title": "Batch Torrent", 
+		"class": "torrent",
+		"url": "http://ponyship.tk/s2.1080pi/MLP.FiM.Season.2.1080p.iTunes.CC.Ponyship-RainbowCrash.torrent"
+	},
+	{
+		"title": "Batch Download",
+		"class": "direct",
+		"url": "http://ponyship.tk/s2.1080pi/MLP.FiM.Season.2.1080p.iTunes.CC.zip"
+	}],
+
+	[{
+		"title": "YouTube Playlist", 
+		"class": "youtube",
+		"url": "http://www.youtube.com/playlist?list=PLcalPaw7P4tKzx_aDvaSazhqVLNBnogy-"
+	},{
+		"title": "Batch Torrent", 
+		"class": "torrent",
+		"url": "http://ponyship.tk/s3.1080pi/MLP.FiM.Season.3.1080p.iTunes.CC.Ponyship-RainbowCrash.torrent"
+	},
+	{
+		"title": "Batch Download",
+		"class": "direct",
+		"url": "http://ponyship.tk/s3.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.zip"
+	}]
+]

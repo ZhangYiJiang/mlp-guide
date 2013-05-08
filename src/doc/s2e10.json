@@ -1,0 +1,38 @@
+{
+	"title": "Secret of My Excess", 
+
+	"tags": [
+		"c:Spike",  
+		"w:M. A. Larson",
+
+		"l:Ponyville",
+
+		"m:Main 6",
+		"m:Cheerilee",
+		"m:Zecora"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=7czGyseLtfc"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 720p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E10.Secret.of.My.Excess.720p.mp4"
+		}, {
+			"title": "YayPonies 720p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:C50D02A927397276FEE175FD46CB64F5CD27B357"
+		}]
+	}
+}

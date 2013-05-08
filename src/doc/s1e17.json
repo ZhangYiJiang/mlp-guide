@@ -1,0 +1,42 @@
+{
+	"title": "Stare Master",
+	"tags": [
+		"c:Fluttershy",
+		"c:CMC",
+		"s:Adventure",
+		"s:Song × 1",
+		"w:Chris Savino",
+
+		"l:Ponyville",
+		"l:Everfree Forest",
+
+		"m:Rarity",
+		"m:Twilight Sparkle"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=q3far0w9tlk"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E17.Stare.Master.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:2083CE303FAB242A64EF1F9F4F1FE9CE4F79A9A3"
+		}]
+
+		
+	}
+}

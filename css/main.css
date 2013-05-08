@@ -1,0 +1,731 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+
+body {
+	width: 940px;
+	margin: 0 auto;
+
+	font-size: 14px;
+	font-family: Lato, sans-serif;
+	background: #fff9fc;
+	color: #333;
+}
+
+h1.page-title {
+	background: url('../img/banner.png') no-repeat;
+
+	font-size: 36px;
+	float: left;
+	font-family: Lobster;
+	width: 163px;
+	padding: 5px 34px 70px;
+	margin: 0 24px 20px -5px;
+
+	z-index: 2000;
+	position: relative;
+
+	color: #ED3C95;
+	text-align: center;
+	text-shadow: 
+		1px 1px 0 #99258E, 1px 0 0 #99258E, 0 1px 0 #99258E, 
+
+		2px 2px 0 #F6B7D2, 2px 0 0 #F6B7D2, 3px 0 0 #F6B7D2, 3px 2px 0 #F6B7D2, 
+		3px 1px 0 #F6B7D2, 3px 3px 0 #F6B7D2, 
+
+		0 0 10px #fff;
+}
+
+span.mlp-title {
+	text-indent: -9999px;
+	width: 167px;
+	height: 200px;
+	display: block;
+	margin-bottom: 10px;
+
+	background: url('../img/logo.png') no-repeat;
+}
+
+header.page-header {
+	width: 220px;
+	float: left;
+}
+
+header.page-header h2 {
+	font-size: 24px;
+	font-family: Lobster, sans-serif;
+	color: #ED3C95;
+	margin-bottom: 0.4em;
+	text-shadow: 1px 1px 0 #F6B7D2, 1px 0 0 #F6B7D2, 0 1px 0 #F6B7D2;
+}
+
+nav.top-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 36px;
+	color: #fff;
+
+	z-index: 1000;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 3px 3px rgba(0, 0, 0, 0.3);
+	background-color: #ED3C95;
+	background: #ED3C95 linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3));
+}
+
+div.nav-wrapper {
+	width: 940px;
+	margin: 6px auto;
+	position: relative;
+}
+
+span.top-button {
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8);
+	font-weight: bold;
+
+	float: left;
+	padding: 10px 12px 12px;
+	margin-top: -6px;
+	cursor: pointer;
+
+	-webkit-transition: 0.1s all;
+	   -moz-transition: 0.1s all;
+			transition: 0.1s all;
+}
+
+span.top-button:hover, 
+div.second-title a:hover {
+	background-color: #F270B1;
+}
+
+nav.top-bar > div > div {
+	float: right;
+}
+
+div.second-title a {
+	font-size: 24px;
+	font-family: Lobster, sans-serif;
+	font-weight: normal;
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 1px 1px 0 #99258E, 1px 0 0 #99258E, 0 1px 0 #99258E;
+	left: 0;
+	top: -6px;
+	padding: 4px 18px 8px;
+
+	position: absolute;
+}
+
+div.filter {
+	height: 16px;
+}
+
+div.filter p {
+	float: left;
+}
+
+p.filter-title {
+	font-weight: bold;
+	margin: 2px 12px 0 0;
+}
+
+p.include, p.exclude {
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	background-position: 0 center;
+	margin-top: 2px;
+}
+
+p.include {
+	background-image: url('../img/funnel.png');
+}
+
+p.include:empty, p.exclude:empty {
+	display: none;
+}
+
+div.filter span.tag {
+	margin-top: 0;
+}
+
+div.filter span.remove-filter {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin-left: 2px;
+	background: url('../img/cross-small.png') no-repeat center;
+	cursor: pointer;
+}
+
+div.dropdown {
+	display: none;
+	position: absolute;
+	top: 30px;
+	background-color: #F270B1;
+	padding: 20px;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8);
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+div.dropdown h3 {
+	line-height: 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+	margin-bottom: 12px;
+}
+
+div.dropdown h3 span {
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #F270B1;
+	padding-right: 8px;
+}
+
+span.top-button:hover + div.dropdown, 
+div.dropdown:hover {
+	display: block;
+}
+
+span.filter-button {
+	margin-right: 20px;
+}
+
+div.filter-menu {
+	right: 0;
+	width: 660px;
+	padding: 20px;
+}
+
+div.filter-menu ul ul {
+	margin-bottom: 12px;
+
+	-webkit-column-count: 4;
+	   -moz-column-count: 4;
+			column-count: 4;
+
+	-webkit-column-gap: 20px;
+	   -moz-column-gap: 20px;
+			column-gap: 20px;
+}
+
+div.filter-menu ul ul li {
+	margin-bottom: 2px;
+	cursor: pointer;
+}
+
+div.filter-menu ul ul li:hover {
+	background: linear-gradient(to right, 
+		rgba(252, 174, 212, 0) 0%, 
+			#FCAED4 75%, 
+			#FCAED4 100%);;
+}
+
+div.filter-menu span.tag {
+	text-shadow: none;
+}
+
+div.filter-menu span.count {
+	float: right;
+	font-weight: bold;
+	font-size: 13px;
+	margin: 3px 4px 0 0;
+}
+
+ul.watch-pref-menu li {
+	float: left;
+	width: 80px;
+	height: 35px;
+	padding: 44px 5px 0;
+	cursor: pointer;
+
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+
+	background-image: url('../img/sprite-download.png');
+	background-repeat: no-repeat;
+}
+
+ul.watch-pref-menu li:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+ul.watch-pref-menu li.active,
+ul.watch-pref-menu li:active {
+	background-color: #ED0977;
+}
+
+div.search {
+	margin: -2px 0 0 0;
+}
+	
+div.search label span {
+	position: absolute;
+	left: -9999px;
+}
+
+div.search input {
+	padding: 3px 15px;
+	border-radius: 20px;
+
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.4) inset, 0 1px 0 rgba(255, 255, 255, 0.1);
+	background-color: transparent;
+	border: 1px solid rgba(0, 0, 0, 0.25);
+
+	color: #fff;
+	font-family: inherit;
+}
+
+div.search input:focus {
+	background: rgba(255, 255, 255, 0.2);
+}
+
+.where-to-watch > div {
+	margin-bottom: 1em;
+}
+
+.where-to-watch li {
+	margin-bottom: 0.4em;
+	line-height: 1.3em;
+}
+
+.where-to-watch h3 {
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 1px solid #999;
+	margin-bottom: 4px;
+	padding-bottom: 2px;
+}
+
+.where-to-watch strong {
+	font-size: 13px;
+	font-variant: small-caps;
+}
+
+.where-to-watch a {
+	color: #ED3C95;
+	text-decoration: none;
+	display: inline;
+}
+
+.where-to-watch a:hover {
+	text-decoration: underline;
+}
+
+.where-to-watch span.volumes {
+	font-size: 13px;
+	font-variant: small-caps;
+}
+
+.episodes {
+	margin-top: 48px;
+	width: 700px;
+	float: right;
+}
+
+.season h2 {
+	font-size: 24px;
+	font-family: Lobster, sans-serif;
+	
+	padding: 0 0 6px 80px;
+}
+
+.season > header {
+	color: #fff;
+	position: relative;
+	
+	padding-top: 6px;
+	background-color: #ED3C95;
+	background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, 
+		rgba(255, 255, 255, 0.3) 100%);
+
+	text-shadow: 1px 1px 0 #99258E, 1px 0 0 #99258E, 0 1px 0 #99258E;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+	z-index: 500;
+}
+
+.season > header label {
+	float: left;
+	width: 40px;
+
+	font-size: 9px;
+	text-transform: uppercase;
+	font-family: Oswald;
+	text-align: center;
+
+	position: absolute;
+	left: 34px;
+	top: 0;
+	bottom: 0;
+	cursor: pointer;
+
+	padding-top: 4px;
+}
+
+.season > header label:hover {
+	background-color: #D3026A;
+	box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.season > header label input {
+	cursor: pointer;
+}
+
+.number-heading {
+	position: absolute;
+	top: 8px;
+	left: 0;
+
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+
+	width: 40px;
+}
+
+.episodes > header .writer {
+	top: 5px;
+	font-size: 16px;
+}
+
+.episode-list {
+	margin-bottom: 32px;
+}
+
+.episode-list > li {
+	clear: both;
+	position: relative;
+	background: #FFE5F1;
+
+	-webkit-transition: 0.05s all;
+	   -moz-transition: 0.05s all;
+			transition: 0.05s all;
+}
+
+.episode-list > li:nth-child(even) {
+	background: #FFF2F8;
+}
+
+.episode-list > li:hover, 
+.episode-list > li.active,
+.episode-list > li.filter-active {
+	background-color: #FFC4E1;
+}
+
+.episode-list > li.hidden {
+	height: 0;
+	border-bottom: 0;
+}
+
+.episode-list > li header {
+	position: relative;
+	cursor: pointer;
+}
+
+.episodes li span.episode-count {
+	text-align: center;
+
+	width: 40px;
+	position: absolute;
+	left: 0;
+	top: 8px;
+
+	color: #888;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.episodes li h3 a {
+	display: block;
+	padding: 8px 0 9px 80px;
+
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+}
+
+span.title-highlight {
+	text-decoration: underline;
+}
+
+.episode-list li header label {
+	position: absolute;
+	left: 36px;
+	top: 0;
+	bottom: 0;
+	width: 36px;
+
+	text-indent: -9999px;
+}
+
+
+.episode-list li header label:hover {
+	background-color: #F270B1;
+	cursor: pointer;
+}
+
+.episode-list li header input[type='checkbox'] {
+	position: absolute;
+	left: 0;
+	top: 0;
+
+	padding: 0;
+	margin: 10px 12px;
+	cursor: pointer;
+}
+
+.tag {
+	border-radius: 2px;
+	font-size: 11px;
+	color: #999;
+
+	padding: 4px 4px 5px;
+	margin: 3px 3px 0 0;
+	display: inline-block;
+}
+
+.episodes header .tags {
+	width: 400px;
+	text-align: right;
+
+	right: 4px;
+	top: 4px;
+	position: absolute;
+}
+
+.episodes header .tag {
+	padding-left: 21px;
+	opacity: 0.6;
+}
+
+.episodes header .tag:hover {
+	opacity: 1;
+}
+
+.episodes .characters {
+	position: absolute;
+	top: 2px;
+	right: 300px;
+	width: 100px;
+	text-align: right;
+}
+
+.episodes .characters > span {
+	margin-left: -2px;
+}
+
+.watch {
+	overflow: hidden;
+	background-color: #666;
+	color: #fff;
+	padding: 12px 20px;
+
+	border: 1px solid rgba(0, 0, 0, 0.25);
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.6) inset, 0 1px 0 rgba(255, 255, 255, 0.1);
+	text-shadow: 0 1px 0 #000;
+}
+
+.watch div {
+	float: left;
+	margin-right: 20px;
+	border-bottom: 1px solid #999;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+.watch h4 {
+	text-align: center;
+	border-bottom: 1px solid;
+	line-height: 0;
+	color: #ccc;
+	margin: 4px 0 12px;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.6);
+}
+
+.watch h4 span {
+	font-weight: bold;
+	margin-bottom: 11px;
+	padding: 0 5px;
+	font-size: 13px;
+	background: #666;
+}
+
+.watch div a {
+	height: 40px;
+	width: 70px;
+	padding-top: 44px;
+	margin-right: 6px;
+
+	display: block;
+	float: left;
+
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+
+	background-repeat: no-repeat;
+	background-image: url('../img/sprite-download.png');
+}
+
+.watch div a:hover {
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+.watch div a:last-child {
+	margin-right: 0;
+}
+
+.watch p.warning {
+	margin-bottom: 12px;
+	color: #FCFFB7;
+	padding-left: 20px;
+	background: url('../img/error.png') no-repeat;
+}
+
+.watch p.warning strong {
+	color: #FFCC00;
+}
+
+.watch label {
+	clear: both;
+	float: left;
+
+	font-size: 12px;
+	color: #ddd;
+	font-weight: bold;
+	cursor: pointer;
+
+	margin-top: 6px;
+}
+
+.watch label:hover {
+	text-decoration: underline;
+}
+
+.watch label input {
+	vertical-align: middle;
+	margin-right: 6px;
+}
+
+.episodes .except img {
+	float: left;
+	margin-right: 20px;
+}
+
+.spoiler, .watch {
+	display: none;
+}
+
+.synopsis {
+	width: 420px;
+	float: left;
+}
+
+footer {
+	clear: both;
+	float: right;
+	width: 700px;
+
+	font-size: 13px;
+	line-height: 1.4em;
+	margin: 2em 0;
+
+	position: relative;
+}
+
+footer p {
+	margin-bottom: 1em;
+}
+
+footer a {
+	color: #ED3C95;
+	text-decoration: none;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+img.octorainbow {
+	position: absolute;
+	left: -60px;
+	bottom: 0;
+}
+
+/* Download options */
+.itunes { background-position: center 8px; }
+.youtube { background-position: center -88px; }
+.direct { background-position: center -184px; }
+.torrent { background-position: center -280px; }
+.none { background-position: center -376px; }
+
+/* Stupid Chrome */
+input[type="search"] {
+    -webkit-appearance: textfield;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+}
+
+input[type="search"]::-webkit-input-placeholder {
+	color: rgba(255, 255, 255, 0.4);
+}

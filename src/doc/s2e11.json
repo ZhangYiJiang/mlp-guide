@@ -1,0 +1,36 @@
+{
+	"title": "Hearth's Warming Eve", 
+
+	"tags": [
+		"c:Main 6", 
+		"s:Lore",
+		"s:Song × 1", 
+		"w:Merriwether Williams",
+
+		"l:Canterlot"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=20VHuJ7KtsI"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 720p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E11.Hearth%27s.Warming.Eve.720p.mp4"
+		}, {
+			"title": "YayPonies 720p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:2CD93530A978436F6FD3931BCFF88127C8C418F9"
+		}]
+	}
+}

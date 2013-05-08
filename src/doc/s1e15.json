@@ -1,0 +1,41 @@
+{
+	"title": "Feeling Pinkie Keen",
+	"tags": [
+		"c:Pinkie Pie", 
+		"c:Twilight Sparkle",
+		"s:Adventure",
+		"w:Dave Polsky",
+		
+		"l:Ponyville",
+		"l:Everfree Forest",
+
+		"m:Fluttershy",
+		"m:Applejack"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=qGkpLaUHUe4"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E15.Feeling.Pinkie.Keen.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:6A4DD64A1DA1FD7BF4B5507D24370788E3E7A57C"
+		}]
+
+		
+	}
+}

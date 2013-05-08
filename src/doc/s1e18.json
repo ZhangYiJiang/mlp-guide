@@ -1,0 +1,39 @@
+{
+	"title": "The Show Stoppers",
+	"tags": [
+		"c:CMC",
+		"s:Song × 1",
+		"w:Cindy Morrow",
+
+		"l:Ponyville",
+		"m:Applejack",
+		"m:Cheerilee",
+		"m:Twilight Sparkle"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=9cwSwbT7d8Y"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E18.The.Show.Stoppers.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:C396FB59A4035B391C56590C78575E46DA4DBCFC"
+		}]
+
+		
+	}
+}

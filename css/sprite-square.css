@@ -1,0 +1,28 @@
+span[class^='icon-'] {
+	background-image: url('../img/sprite-square.png');
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+
+.icon-fluttershy 	{ background-position: 0		0; }
+.icon-rainbow		{ background-position: -30px 	0; }
+.icon-applejack 	{ background-position: -60px 	0; }
+.icon-pinkie 		{ background-position: -90px 	0; }
+.icon-rarity 		{ background-position: -120px 	0; }
+.icon-twilight 		{ background-position: -150px	0; }
+
+.icon-mane6	{ 
+	background-position: 0 	-30px; 
+}
+
+.icon-cmc { 
+	width: 64px !important;
+	background-position: 0 	-32px; 
+}
+
+.icon-spike 		{ background-position: 0	 	-32px; }
+.icon-antagonist	{ background-position: -16px	-32px; }
+.icon-			{ background-position: -32px 	-16px; }
+.icon- 			{ background-position: -48px 	-16px; }

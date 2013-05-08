@@ -1,0 +1,44 @@
+{
+	"title": "Friendship is Magic - Part 1",
+
+	"tags": [
+		"c:Main 6",
+		"s:Lore", 
+		"w:Lauren Faust", 
+
+		"l:Canterlot", 
+		"l:Ponyville", 
+
+		"m:Mayor Mare", 
+		"m:Nightmare Moon", 
+		"m:Apple Bloom"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "http://www.youtube.com/watch?v=h_m6bPB6abk"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E01.Friendship.is.Magic.part.1.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:089F9D8722B7804FF8A450F6CB2DC25420EF8B1F"
+		}]
+
+		
+	},
+
+	"synopsis": "Twilight Sparkle learns that the evil Nightmare Moon will return during the upcoming Summer Sun Celebration after one thousand years of imprisonment on the moon. She tries to warn her mentor Princess Celestia, but the Princess ignores her and sends her to Ponyville to check on the preparations for the celebration. There Twilight reluctantly meets Applejack, Rainbow Dash, Rarity, Fluttershy, and Pinkie Pie for the first time. At the celebration, Nightmare Moon appears in place of a missing Princess Celestia and decrees everlasting night."
+}

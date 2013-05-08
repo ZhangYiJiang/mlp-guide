@@ -1,0 +1,42 @@
+{
+	"title": "Bridle Gossip", 
+
+	"tags": [
+		"c:Twilight Sparkle", 
+		"c:Apple Bloom", 
+		"s:Song × 1",
+		"w:Amy Keating Rogers",
+
+		"l:Ponyville",
+		"l:Everfree Forest",
+
+		"m:Main 6",
+		"m:Zecora"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=_nUYJfjEAOQ"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E09.Bridle.Gossip.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:4C6E8419569D93943EC95262110DE2B3001162A8"
+		}]
+
+		
+	}
+}

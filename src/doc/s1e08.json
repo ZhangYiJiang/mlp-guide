@@ -1,0 +1,42 @@
+{
+	"title": "Look Before You Sleep", 
+
+	"tags": [
+		"c:Applejack", 
+		"c:Rarity", 
+		"s:Slice of Life",
+		"w:Charlotte Fullerton",
+		
+		"l:Ponyville",
+
+		"m:Twilight Sparkle"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=Xnbde4WDA-4"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E08.Look.Before.You.Sleep.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:DCB71A7FC1A28F541F01C16C8657CFFD2756EAED"
+		}]
+
+		
+	},
+	
+	"synopsis": "Applejack and Rarity have an argument over their respective approaches to work as they prepare for a thunderstorm. Their arguing traps them outside when the storm hits, but Twilight invites them into the library to spend the night. Twilight decides to throw her first slumber party, much to Applejack and Rarity's regret. The hostility between Applejack and Rarity increases with each activity, with Twilight oblivious to the conflict. As they prepare to go to sleep, a lightning bolt threatens to send a tree branch into a nearby home, but Applejack lassos it in time, accidentally dragging it into Twilight's bedroom. Amid the mess, Applejack and Rarity work together to get rid of the branch and clean up the mess, overcoming their differences. They later apologize to each other, and enjoy the rest of the slumber party with Twilight. "
+}

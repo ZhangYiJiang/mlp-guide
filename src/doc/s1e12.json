@@ -1,0 +1,45 @@
+{
+	"title": "Call of the Cutie",
+	"tags": [
+		"c:Apple Bloom", 
+		"s:Lore",
+		"s:Song × 1",
+		"w:Meghan McCarthy",
+
+		"l:Ponyville",
+
+		"m:Applejack",
+		"m:Twilight Sparkle",
+		"m:Rainbow Dash",
+		"m:Pinkie Pie",
+		"m:Cheerilee",
+		"m:Twist",
+		"m:Diamond Tiara"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=3qkSSxP_WDI"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E12.Call.of.the.Cutie.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:285ED0368E8FAB88404ABFC46070638EE92C50AD"
+		}]
+
+		
+	}
+}

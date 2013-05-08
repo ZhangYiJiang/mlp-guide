@@ -1,0 +1,44 @@
+{
+	"title": "Boast Busters", 
+
+	"tags": [
+		"c:Twilight Sparkle", 
+		"w:Chris Savino",
+
+		"l:Ponyville",
+
+		"m:Rainbow Dash",
+		"m:Applejack",
+		"m:Rarity",
+		"m:Trixie",
+		"m:Snips and Snails"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=paF5Qx6XLm4"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E06.Boast.Busters.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:0F7856E6EAC85031A2345371B2A8AA576C9585E2"
+		}]
+
+		
+	},
+	
+	"synopsis": "\"The Great and Powerful\" Trixie (Kathleen Barr) arrives in town and boasts being a powerful unicorn, outdoing stunts performed by Twilight's friends with her magic. Spike tries to have Twilight stand up for her friends, but Twilight refuses, believing the rest of town will dislike her due to her own powerful magic. In an attempt to prove Trixie's power to Spike, the colts Snips and Snails lure a giant Ursa Minor bear into town for her to vanquish. Trixie tries to stop the bear, but her magic is too weak; instead, Twilight is able to use her own magic to lull the bear to sleep and return it to its cave. As Trixie runs off, the town thanks Twilight for her help, and she realizes that they readily accept her magical talent. "
+}

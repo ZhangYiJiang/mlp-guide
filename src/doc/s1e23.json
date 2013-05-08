@@ -1,0 +1,42 @@
+{
+	"title": "The Cutie Mark Chronicles",
+	"tags": [
+		"c:Main 6",
+		"c:CMC",
+		"s:Lore",
+		"s:Song × 1",
+		"w:M. A. Larson",
+
+		"l:Ponyville",
+		"l:Cloudsdale",
+		"l:Manehatten",
+		"l:Canterlot",
+
+		"m:Celestia"
+	], 
+	
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=hjiOJXWdOJ0"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E23.The.Cutie.Mark.Chronicles.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:2338C5DA3A36AFF74776C60CE21B0C4A8FFA07DB"
+		}]
+	}
+}

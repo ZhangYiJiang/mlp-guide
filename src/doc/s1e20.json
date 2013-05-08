@@ -1,0 +1,37 @@
+{
+	"title": "Green Isn't Your Color",
+	"tags": [
+		"c:Rarity", 
+		"c:Fluttershy",
+		"w:Meghan McCarthy",
+		
+		"l:Ponyville",
+
+		"m:Twilight Sparkle",
+		"m:Pinkie Pie"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=MnQwaRKxTs0"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E20.Green.Isn%27t.Your.Color.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:EF5010B5F05EF91C555C941E6389309C6BD54A02"
+		}]
+	}
+}

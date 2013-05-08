@@ -1,0 +1,41 @@
+{
+	"title": "The Return of Harmony - Part 1", 
+	"tags": [
+		"c:Main 6", 
+		"s:Lore",
+		"s:Adventure", 
+		"w:M. A. Larson", 
+
+		"l:Ponyville", 
+		"l:Canterlot", 
+
+		"m:Cheerilee",
+		"m:CMC",
+		"m:Celestia",
+		"m:Discord"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=sqAp4N-3HIc"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E01.The.Return.of.Harmony.Part.1.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "http://yp1.pony.pp.ua/torrents/YP-1Z-02x01.mkv.torrent"
+		}]
+	}
+}

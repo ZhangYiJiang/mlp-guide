@@ -1,0 +1,47 @@
+{
+	"title": "Family Appreciation Day", 
+
+	"tags": [
+		"c:Apple Bloom",
+		"c:CMC",
+
+		"s:Slice of Life",
+		"s:Lore",
+
+		"w:Cindy Morrow",
+
+		"l:Ponyville",
+
+		"m:Applejack",
+		"m:Granny Smith",
+		"m:Cheerilee",
+		"m:Diamond Tiara",
+		"m:Silver Spoon",
+		"m:Filthy Rich",
+		"m:Celestia"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=-h8nvq8oUDo"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 720p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E12.Family.Appreciation.Day.720p.mp4"
+		}, {
+			"title": "YayPonies 720p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:C5BB0B3DD84B7AE779D7C727B089E96B6E98653B"
+		}]
+	}
+}

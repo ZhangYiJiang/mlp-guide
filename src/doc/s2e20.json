@@ -1,0 +1,40 @@
+{
+	"title": "It's About Time",
+	"tags": [
+		"c:Twilight Sparkle",
+		"c:Pinkie Pie", 
+		"w:M. A. Larson",
+
+		"l:Ponyville",
+		"l:Canterlot",
+
+		"m:Main 6",
+		"m:Celestia"
+	], 
+
+	"continuity": ["s1e15"],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=N1DvnW2DhGA"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E20.It%27s.About.Time.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "http://yp1.pony.pp.ua/torrents/YP-1Z-02x20.mkv.torrent"
+		}]
+	}
+}

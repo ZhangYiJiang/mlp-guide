@@ -1,0 +1,41 @@
+{
+	"title": "Sonic Rainboom",
+
+	"tags": [
+		"c:Rainbow Dash", 
+		"s:Adventure",
+		"w:M. A. Larson",
+
+		"l:Ponyville",
+		"l:Cloudsdale",
+
+		"m:Main 6",
+		"m:Celestia"
+	],
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=xHyPmVhR33g"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E16.Sonic.Rainboom.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:1C21C6ADCD9896226A5814B3277B620615B0218D"
+		}]
+
+		
+	}
+}

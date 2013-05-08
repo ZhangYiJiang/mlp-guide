@@ -1,0 +1,38 @@
+{
+	"title": "Sweet and Elite", 
+
+	"tags": [
+		"c:Rarity", 
+		"s:Song × 1", 
+		"w:Meghan McCarthy",
+
+		"l:Canterlot",
+
+		"m:Celestia",
+		"m:Main 6"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "http://www.youtube.com/watch?v=RZQ4aTbCI4o"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E09.Sweet.and.Elite.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "http://yp1.pony.pp.ua/torrents/YP-1Z-02x09.mkv.torrent"
+		}]
+	}
+}

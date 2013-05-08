@@ -1,0 +1,146 @@
+!!! 5
+html
+  <!--- Just so you know, Twilight Sparkle is best pony --->
+  head
+    title #{title}
+    link(href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700|Lobster|Oswald:400', 
+      media='all', type='text/css', rel='stylesheet')
+    link(rel='shortcut icon', href='favicon.png')
+
+    link(rel='stylesheet', type='text/css', href='css/main.css')
+    link(rel='stylesheet', type='text/css', href='css/sprite.css')
+    link(rel='stylesheet', type='text/css', href='css/hint.min.css')
+    meta(charset='utf-8')
+
+    <!--[if lt IE 9]>
+    script(src='http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js')
+    <![endif]-->
+    <!--[if lte IE 9]>
+    link(rel='stylesheet', type='text/css', href='css/ie.css')
+    <![endif]-->
+  body
+    header.page-header
+      a(href=siteURL)
+        h1.page-title !{titleHTML}
+      nav.top-bar
+        .nav-wrapper
+          .second-title
+            a(href='/') Episode Guide
+          
+          .search
+            label
+              input(type='search', placeholder='Search episodes')
+              span Search episodes
+          .filter
+            span.filter-button.top-button Filters
+            div.filter-menu.dropdown
+            p.include.tags
+            p.exclude.tags
+          .pref
+            span.pref-button.top-button Pref
+            div.pref-menu.dropdown
+              h3: span Always watch using
+              ul.watch-pref-menu
+          div 
+            span.random.top-button.hint--bottom(data-hint='Give me a random episode!', href='#') Random
+          
+          
+      .where-to-watch
+        include watch.jade
+
+
+    section.episodes
+      each season, seasonNumber in seasons 
+        div.season(id='s'+ (seasonNumber + 1).toString())
+          header
+            .number-heading №
+            label.watched-all
+              | Watched
+              input(type='checkbox')
+            h2 Season #{helper.numberToWord(seasonNumber + 1, true)}
+          ol.episode-list
+            each episode, epCount in season 
+              li(id=episode.id, data-continuity=episode.continuityData)
+
+                header
+                  span.episode-count #{epCount + 1} 
+                  h3 
+                    a(target='_blank') #{episode.title}
+                  label.watched
+                    | Watched this episode?
+                    input(type='checkbox')
+                  .tags
+                    each tag in episode.tags 
+                      if (!_.contains(spoilerTagCategory, tag.category))
+                        span(class=['tag', tag.class, tag.category], 
+                          data-tag=tag.class, data-category=tag.category) #{tag.name} 
+
+                .spoiler
+                  .except
+                    // img(src='img/s1e01.jpg', alt='')
+                    // p.synopsis #{episode.synopsis}
+                  .tags
+                    each tag in episode.tags 
+                      if (_.contains(spoilerTagCategory, tag.category))
+                        span(class=['tag', tag.class, tag.category], 
+                          data-tag=tag.class, data-category=tag.category) #{tag.name} 
+
+                if episode.watch
+                  .watch
+                    if (episode.continuityData)
+                      p.warning 
+                        | You should watch 
+                        strong.watch-ep 
+                        |  before watching this episode
+
+                    each category, name in episode.watch
+                      div
+                        h4: span #{name}
+                        each source in category
+                          a(href=source.url, class=source.class, target='_blank') #{source.title}
+                else
+                  .watch
+                    p This episode has no viewing options yet. 
+
+    footer
+      p
+        | The contents of this page is licensed under 
+        a(href='http://creativecommons.org/licenses/by-nc/3.0/deed.en_US') Creative Commons Attribution-NonCommercial 3.0 Unported
+        | . Uses icons from 
+        a(href='http://www.fatcow.com/free-icons') FatCow hosting 
+        | and 
+        a(href='http://p.yusukekamiyamane.com/') Fugue by Yusuke Kamiyamane
+
+      p.developer
+        a(href='https://github.com/ZhangYiJiang/mlp-guide')
+          img.octorainbow(src='img/octorainbow.png', alt='')
+        | If you're a developer, why not 
+        a(href='https://github.com/ZhangYiJiang/mlp-guide') take a peek at the source? 
+
+
+    | <script id='filter-menu-template' type='text/template'>
+    |  <ul>
+    |    <% _.each(categories, function(tags, category){ %>
+    |    <li class='cat-<%= category %>'>
+    |      <h3><span><%= humanize(category) %></span></h3>
+    |      <ul>
+    |        <% _.each(tags, function(tag){ %>
+    |        <li><%= tag.ele[0].outerHTML %> 
+    |           <span class='count'>× <%= tag.count %></span></li>
+    |        <% }) %>
+    |      </ul>
+    |    </li>
+    |    <% }) %>
+    |  </ul>
+    | </script>
+
+    script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
+    script(src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore.js')
+    script(src='http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js')
+    script(src='js/utilities.js')
+    script(src='js/master.js')
+
+    | <script>guide.set('tagCategory', 
+    include tags.json
+    | );</script>
+

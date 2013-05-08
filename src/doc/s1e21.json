@@ -1,0 +1,37 @@
+{
+	"title": "Over a Barrel", 
+	"tags": [
+		"c:Main 6",
+		"s:Adventure",
+		"s:Song × 1",
+		"w:Dave Polsky",
+
+		"l:Appleloosa", 
+
+		"m:Braeburn"
+	], 
+
+	"watch": {
+		"Streaming": [{
+			"title": "YouTube", 
+			"class": "youtube",
+			"url": "https://www.youtube.com/watch?v=7zhChXDDcuE"
+		}],
+
+
+		"Download": [{
+			"title": "iTunes HD (USD2.99)", 
+			"class": "itunes",
+			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+		},
+		{
+			"title": "PonyShip.tk 1080p Direct",
+			"class": "direct",
+			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E21.Over.a.Barrel.mp4"
+		}, {
+			"title": "YayPonies 1080p Torrent",
+			"class": "torrent",
+			"url": "magnet:?xt=urn:btih:C85D59B9E2667E143BE19A5ED105A20A98560398"
+		}]
+	}
+}

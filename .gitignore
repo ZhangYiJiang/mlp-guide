@@ -1,0 +1,19 @@
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac crap
+.DS_Store
+
+
+# Sublime Edit 
+*.sublime*
+
+# Episode images are not ready yet 
+/img/episodes
