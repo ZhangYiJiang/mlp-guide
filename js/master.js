@@ -177,35 +177,40 @@ var EpisodeView = Backbone.View.extend({
 	},
 
 	watch: function(evt) {
-		var hasContinuityWarning = _.contains(this.model.get('continuity'), false), 
-			hasWatchOption = !! this.mainAnchor.attr('href');
+		if(!this.$el.hasClass('active')) { // Inactive -> Active
+			var hasContinuityWarning = _.contains(this.model.get('continuity'), false), 
+				hasWatchOption = !! this.mainAnchor.attr('href');
 
-		// Replace state so that the user can come back here next time
-		if (history.replaceState) {
-			history.replaceState(null, '', '#' + this.el.id);
-		} else {
-			window.location.hash = this.el.id;
-			app.scrollTo(this.el.id, 100);
-		}
-		
+			// Replace state so that the user can come back here next time
+			if (history.replaceState) {
+				history.replaceState(null, '', '#' + this.el.id);
+			} else {
+				window.location.hash = this.el.id;
+				app.scrollTo(this.el.id, 100);
+			}
+			
 
-		// Add active class to li 
-		episodes.viewsEle(function(){ $(this).removeClass('active'); });
-		this.$el.addClass('active');
+			// Add active class to li 
+			episodes.viewsEle(function(){ $(this).removeClass('active'); });
+			this.$el.addClass('active');
 
-		// Close any open menus 
-		episodes.views(function(){ this.toggleWatchOption(false); });
+			// Close any open menus 
+			episodes.views(function(){ this.toggleWatchOption(false); });
 
-		// If this episode doesn't have a default view option, 
-		// or if there are continuity errors, open up the menu 
-		if (!hasWatchOption || hasContinuityWarning) {
-			this.toggleWatchOption(true);
-		}
+			// If this episode doesn't have a default view option, 
+			// or if there are continuity errors, open up the menu 
+			if (!hasWatchOption || hasContinuityWarning) {
+				this.toggleWatchOption(true);
+			}
 
-		// If this episode has a continuity warning on it, stop the 
-		// default view option so that the user has time to read the warning first 
-		if (hasWatchOption && hasContinuityWarning && evt) {
-			evt.preventDefault();
+			// If this episode has a continuity warning on it, stop the 
+			// default view option so that the user has time to read the warning first 
+			if (hasWatchOption && hasContinuityWarning && evt) {
+				evt.preventDefault();
+			}
+		} else { // Active -> Inactive
+			this.$el.removeClass('active');
+			this.toggleWatchOption(false);
 		}
 	}, 
 	
