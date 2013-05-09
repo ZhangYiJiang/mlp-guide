@@ -9,23 +9,23 @@
 
 		"l:Ponyville",
 		"l:Cloudsdale",
-		"l:Manehatten",
+		"l:Manehattan",
 		"l:Canterlot",
 
 		"m:Celestia"
-	], 
-	
+	],
+
 
 	"watch": {
 		"Streaming": [{
-			"title": "YouTube", 
+			"title": "YouTube",
 			"class": "youtube",
 			"url": "https://www.youtube.com/watch?v=hjiOJXWdOJ0"
 		}],
 
 
 		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
+			"title": "iTunes HD (USD2.99)",
 			"class": "itunes",
 			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
 		},
