@@ -1,7 +1,7 @@
 {
 	"title":				"My Little Pony: Friendship is Magic Episode Guide", 
 	"titleHTML":			"<span class=\"mlp-title\">My Little Pony: Friendship is Magic</span> Episode Guide", 
-	"spoilerTagCategory":	["location", "minor-character"],
+	"spoilerTagCategory":	["location", "minor-character", "plot"],
 	"siteURL":				"http://zhangyijiang.github.io/mlp-guide/",
 	"fileName":				"../index.html"
 }
