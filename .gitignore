@@ -11,9 +11,12 @@ Desktop.ini
 # Mac crap
 .DS_Store
 
+# Node.js
+/src/node_modules
 
-# Sublime Edit 
+# Sublime Edit
 *.sublime*
 
-# Episode images are not ready yet 
+# Episode images are not ready yet
 /img/episodes
+
