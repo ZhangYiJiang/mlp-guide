@@ -451,10 +451,6 @@ div.search input:focus {
 	clear: both;
 	position: relative;
 	background: #FFE5F1;
-
-	-webkit-transition: 0.05s all;
-	   -moz-transition: 0.05s all;
-			transition: 0.05s all;
 }
 
 .episode-list > li:nth-child(even) {
