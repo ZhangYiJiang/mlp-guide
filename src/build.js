@@ -63,7 +63,7 @@ var template = jade.compile(fs.readFileSync('guide.jade', { 'encoding': 'utf8' }
 
 var output = template(data);
 
-fs.writeFileSync('../guide.html', output);
+fs.writeFileSync(data.fileName, output);
 
 // Utility functions 
 function readJSON (file) {
