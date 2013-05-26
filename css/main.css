@@ -639,6 +639,14 @@ span.title-highlight {
 	color: #FFCC00;
 }
 
+.watch .watch-ep span {
+	cursor: pointer;
+}
+
+.watch .watch-ep span:hover {
+	text-decoration: underline;
+}
+
 .watch label {
 	clear: both;
 	float: left;

@@ -153,7 +153,8 @@ var EpisodeView = Backbone.View.extend({
 		"change label.watched input":	"updateWatched", 
 		"click h3 a":					"watch", 
 		"click label.watched":			"preventPropagation",
-		"click span.tag":				"addFilter"
+		"click span.tag":				"addFilter",
+		"click .watch-ep span":			"continuityWarningClick"
 	}, 
 
 	updateWatched: function() {
@@ -228,13 +229,14 @@ var EpisodeView = Backbone.View.extend({
 
 		if (continuity && _.contains(continuity, false)) {
 			var continuityText = _.chain(continuity)
-				.map(function(v, k){ if (!v) { return k; } })
+				.map(function(v, k) { if (!v) { 
+					return '<span>' + k.toUpperCase() + '</span>'; 
+				} })
 				.compact()
 				.value()
-				.join(', ')
-				.toUpperCase();
+				.join(', ');
 
-			this.continuityWarning.find('.watch-ep').text(continuityText);
+			this.continuityWarning.find('.watch-ep').html(continuityText);
 			this.continuityWarning.slideDown(100);
 		} else {
 			this.continuityWarning.slideUp(100);
@@ -251,6 +253,12 @@ var EpisodeView = Backbone.View.extend({
 			category: category, 
 			text: tag.text().replace(/\s*×\s*\d*/g, '')
 		});
+	},
+
+	continuityWarningClick: function(evt) {
+		var ep = $(evt.target).text().toLowerCase();
+		episodes.get(ep).view.watch();
+		app.scrollTo(ep);
 	},
 
 	highlight: function(term) {
