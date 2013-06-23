@@ -1,38 +1,37 @@
 {
 	"title": "Owl's Well That Ends Well",
 	"tags": [
-		"c:Twilight Sparkle", 
+		"c:Twilight Sparkle",
 		"c:Spike",
-
 		"w:Cindy Morrow",
-
 		"l:Ponyville",
-		"l:Everfree Forest", 
-
+		"l:Everfree Forest",
 		"m:Main 6"
-	], 
-
+	],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=kCKknV8lFfM"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E24.Owl%27s.Well.That.Ends.Well.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:btih:379CBB81918B4558A3D538A9E342497D3EBC5793"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=BBSfVybSZ7U"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E24.Owl%27s.Well.That.Ends.Well.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:379CBB81918B4558A3D538A9E342497D3EBC5793"
+			}
+		]
 	}
 }

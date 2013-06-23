@@ -1,38 +1,37 @@
 {
-	"title": "Baby Cakes", 
-
+	"title": "Baby Cakes",
 	"tags": [
 		"c:Pinkie Pie",
 		"s:Slice of Life",
-		"s:Song × 1", 
+		"s:Song × 1",
 		"w:Charlotte Fullerton",
-
 		"l:Ponyville",
-
 		"m:Twilight Sparkle"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=WgIWwJNj7og"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 720p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E13.Baby.Cakes.720p.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:7365FF8D256E2F48F9B4F7A355F090297C0AE8ED"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=U2GNYnnHjYk"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 720p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E13.Baby.Cakes.720p.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:7365FF8D256E2F48F9B4F7A355F090297C0AE8ED"
+			}
+		]
 	}
 }

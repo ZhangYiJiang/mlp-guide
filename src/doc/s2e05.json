@@ -1,38 +1,37 @@
 {
-	"title": "Sisterhooves Social", 
-
+	"title": "Sisterhooves Social",
 	"tags": [
-		"c:Sweetie Belle", 
-		"c:Rarity", 
+		"c:Sweetie Belle",
+		"c:Rarity",
 		"w:Cindy Morrow",
-
 		"l:Ponyville",
-
 		"m:Applejack",
 		"m:Apple Bloom"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=-CYmFTZc5f8"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E05.Sisterhooves.Social.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:D093AA943DFF4ECAB4095A627D04848FF7A550E1"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=dp5YNLw6nXU"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E05.Sisterhooves.Social.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:D093AA943DFF4ECAB4095A627D04848FF7A550E1"
+			}
+		]
 	}
 }

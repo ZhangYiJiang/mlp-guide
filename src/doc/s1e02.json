@@ -1,57 +1,51 @@
 {
 	"title": "Friendship is Magic - Part 2",
-
 	"tags": [
 		"c:Main 6",
-		"s:Adventure", 
+		"s:Adventure",
 		"s:Song × 1",
-		"w:Lauren Faust", 
-
-		"l:Everfree Forest", 
-		"l:Ponyville", 
-
-		"m:Celestia", 
-		"m:Nightmare Moon", 
+		"w:Lauren Faust",
+		"l:Everfree Forest",
+		"l:Ponyville",
+		"m:Celestia",
+		"m:Nightmare Moon",
 		"m:Luna"
-	], 
-
-
+	],
 	"song": [
 		{
-			"title": "Laughter Song", 
-			"start": "7:44", 
+			"title": "Laughter Song",
+			"start": "7:44",
 			"length": "1:08"
 		}
 	],
-
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=n1L9lIYl5QA"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E02.Friendship.is.Magic.part.2.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:btih:DB5ED2B356BE3F22E57120D38E94EB65754D135A"
-		}]
-
-		
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=1U2RTg_7CnI"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E02.Friendship.is.Magic.part.2.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:DB5ED2B356BE3F22E57120D38E94EB65754D135A"
+			}
+		]
 	},
-
-	"continuity": ["s1e01"],
-
+	"continuity": [
+		"s1e01"
+	],
 	"synopsis": "After Nightmare Moon decrees eternal night, Twilight Sparkle, with the addition of her new friends, ventures deep into the Everfree Forest to find the Elements of Harmony, a set of artifacts used to defeat Nightmare Moon in the past. Nightmare Moon creates obstacles to stop the six ponies, but each of Twilight's friends helps the group overcome them using their own strengths. Once they find the Elements, Nightmare Moon appears and shatters them. Twilight realizes that she and her new friends embody the Elements of Harmony—Honesty (Applejack), Kindness (Fluttershy), Laughter (Pinkie Pie), Generosity (Rarity), Loyalty (Rainbow Dash), and Magic (Twilight)—and the six wield them to defeat Nightmare Moon, returning her to her original form as Princess Celestia's younger sister Princess Luna. Princess Celestia returns and forgives Luna, and orders Twilight to remain in Ponyville to continue studying the magic of friendship."
 }

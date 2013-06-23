@@ -1,37 +1,37 @@
 {
 	"title": "Dragon Quest",
 	"tags": [
-		"c:Spike", 
+		"c:Spike",
 		"s:Adventure",
 		"w:Merriwether Williams",
-
 		"l:Ponyville",
 		"l:Everfree Forest",
-
 		"m:Main 6"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=4cNC5m_70Ak"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E21.Dragon.Quest.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:1551B5DE9045AC4C80A04661D67CEE6F409F00AD"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=0NyLrtGOQAw"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E21.Dragon.Quest.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:1551B5DE9045AC4C80A04661D67CEE6F409F00AD"
+			}
+		]
 	}
 }

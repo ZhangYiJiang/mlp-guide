@@ -1,39 +1,39 @@
 {
 	"title": "A Canterlot Wedding - Part 1",
 	"tags": [
-		"c:Main 6", 
+		"c:Main 6",
 		"s:Song × 1",
 		"w:Meghan McCarthy",
-
 		"l:Ponyville",
 		"l:Canterlot",
-
 		"m:Celestia",
 		"m:Shining Armor",
 		"m:Cadance"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=e37TnUKLPRQ"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E25.A.Canterlot.Wedding.Part.1.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:D8C4E8E0038C32CA48B80FA68953A7417C60E561"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "https://www.youtube.com/watch?v=PVSm_VwUPXo"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E25.A.Canterlot.Wedding.Part.1.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:D8C4E8E0038C32CA48B80FA68953A7417C60E561"
+			}
+		]
 	}
 }

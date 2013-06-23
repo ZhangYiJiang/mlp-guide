@@ -1,41 +1,42 @@
 {
 	"title": "The Best Night Ever",
 	"tags": [
-		"c:Main 6", 
+		"c:Main 6",
 		"s:Musical",
 		"s:Song × 3",
 		"w:Amy Keating Rogers",
-
 		"l:Ponyville",
 		"l:Canterlot",
-
 		"m:Celestia",
 		"m:Blueblood"
 	],
-
-	"continuity": ["s1e03"], 
-
+	"continuity": [
+		"s1e03"
+	],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=fvHdoPBz4Qk"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E26.The.Best.Night.Ever.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:btih:EF5010B5F05EF91C555C941E6389309C6BD54A02"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=l44kImqrGOk"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E26.The.Best.Night.Ever.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:EF5010B5F05EF91C555C941E6389309C6BD54A02"
+			}
+		]
 	}
 }

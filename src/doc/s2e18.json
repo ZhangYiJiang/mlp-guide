@@ -1,38 +1,38 @@
 {
 	"title": "A Friend in Deed",
 	"tags": [
-		"c:Pinkie Pie", 
+		"c:Pinkie Pie",
 		"s:Slice of Life",
 		"s:Musical",
 		"s:Song × 4",
 		"w:M. A. Larson",
-
 		"l:Ponyville",
-
 		"m:Main 6"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=vY-RGoHzEx8"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E18.A.Friend.in.Deed.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:E2790B88A3FBC1EA3537C58E229211521B0B579B"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=JxL6QgWR8vE"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E18.A.Friend.in.Deed.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:E2790B88A3FBC1EA3537C58E229211521B0B579B"
+			}
+		]
 	}
 }

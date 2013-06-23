@@ -1,42 +1,41 @@
 {
-	"title": "The Cutie Pox", 
-
+	"title": "The Cutie Pox",
 	"tags": [
-		"c:Apple Bloom", 
-		"c:CMC", 
+		"c:Apple Bloom",
+		"c:CMC",
 		"w:Amy Keating Rogers",
-
 		"l:Ponyville",
 		"l:Everfree Forest",
-
 		"m:Diamond Tiara",
 		"m:Applejack",
 		"m:Cheerilee",
 		"m:Zecora",
 		"m:Twilight Sparkle"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=GOZAGm9cC68"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E06.The.Cutie.Pox.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:9D6802B5B834FB3B4D4E3ACBE7936276D82ED0A0"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=NaI4UiTADQU"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E06.The.Cutie.Pox.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:9D6802B5B834FB3B4D4E3ACBE7936276D82ED0A0"
+			}
+		]
 	}
 }

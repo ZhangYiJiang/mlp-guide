@@ -1,18 +1,13 @@
 {
-	"title": "Family Appreciation Day", 
-
+	"title": "Family Appreciation Day",
 	"tags": [
 		"c:Apple Bloom",
 		"c:CMC",
-
 		"s:Slice of Life",
 		"s:Lore",
-
 		"w:Cindy Morrow",
-
 		"l:Ponyville",
 		"l:Canterlot",
-
 		"m:Applejack",
 		"m:Granny Smith",
 		"m:Cheerilee",
@@ -21,28 +16,30 @@
 		"m:Filthy Rich",
 		"m:Celestia"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=-h8nvq8oUDo"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 720p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E12.Family.Appreciation.Day.720p.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:B425919F0E51AB639B507887CD35DE937972BC76"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=cJLP5Piy8-k"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 720p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E12.Family.Appreciation.Day.720p.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:B425919F0E51AB639B507887CD35DE937972BC76"
+			}
+		]
 	}
 }

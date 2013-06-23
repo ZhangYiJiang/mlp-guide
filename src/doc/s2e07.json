@@ -1,38 +1,37 @@
 {
-	"title": "May the Best Pet Win!", 
-
+	"title": "May the Best Pet Win!",
 	"tags": [
-		"c:Rainbow Dash", 
+		"c:Rainbow Dash",
 		"s:Musical",
-		"s:Song × 1", 
+		"s:Song × 1",
 		"w:Charlotte Fullerton",
-
 		"l:Ponyville",
-
 		"m:Main 6"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=ynP9ndVqCZ8"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E07.May.the.Best.Pet.Win!.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:E4F2582F242BA2D8D444231129B606F881B7EF03"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=KkxGTXPIf2Q"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E07.May.the.Best.Pet.Win!.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:E4F2582F242BA2D8D444231129B606F881B7EF03"
+			}
+		]
 	}
 }

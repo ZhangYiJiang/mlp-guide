@@ -1,41 +1,43 @@
 {
 	"title": "Keep Calm and Flutter On",
 	"tags": [
-		"c:Fluttershy", 
-		
+		"c:Fluttershy",
 		"w:Dave Polsky",
 		"w:Teddy Antonio",
-
 		"l:Ponyville",
-
 		"m:Main 6",
 		"m:Discord",
 		"m:Celestia"
 	],
-
-	"continuity": ["s1e17", "s2e01", "s2e02"],
-
+	"continuity": [
+		"s1e17",
+		"s2e01",
+		"s2e02"
+	],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "http://youtu.be/iwVpQ47PenI"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575911918"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s3.1080pi/MLP-FIM.S03E10.Keep.Calm.and.Flutter.On.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:btih:68B636E4DDB477C3A79E46A75ABD673615A5CC00"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "https://www.youtube.com/watch?v=iwVpQ47PenI"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575911918"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s3.1080pi/MLP-FIM.S03E10.Keep.Calm.and.Flutter.On.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:68B636E4DDB477C3A79E46A75ABD673615A5CC00"
+			}
+		]
 	}
 }

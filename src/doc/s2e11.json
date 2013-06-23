@@ -1,36 +1,36 @@
 {
-	"title": "Hearth's Warming Eve", 
-
+	"title": "Hearth's Warming Eve",
 	"tags": [
-		"c:Main 6", 
+		"c:Main 6",
 		"s:Lore",
-		"s:Song × 1", 
+		"s:Song × 1",
 		"w:Merriwether Williams",
-
 		"l:Canterlot"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=20VHuJ7KtsI"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 720p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E11.Hearth%27s.Warming.Eve.720p.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:95AE28A9C01275440C045F65D899A14BECFA7756"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=Bj4zRRbew8c"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 720p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E11.Hearth%27s.Warming.Eve.720p.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:95AE28A9C01275440C045F65D899A14BECFA7756"
+			}
+		]
 	}
 }

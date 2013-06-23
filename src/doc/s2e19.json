@@ -1,38 +1,38 @@
 {
 	"title": "Putting Your Hoof Down",
 	"tags": [
-		"c:Fluttershy", 
+		"c:Fluttershy",
 		"w:Merriwether Williams",
 		"w:Charlotte Fullerton",
-
 		"l:Ponyville",
-
 		"m:Rarity",
 		"m:Pinkie Pie",
 		"m:Iron Will"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=mdrd3proz5o"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E19.Putting.Your.Hoof.Down.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:56CD6D14170E738C979F2B1F085C3C397759477B"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=-i8NMausV9s"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E19.Putting.Your.Hoof.Down.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:56CD6D14170E738C979F2B1F085C3C397759477B"
+			}
+		]
 	}
 }

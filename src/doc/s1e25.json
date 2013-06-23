@@ -1,35 +1,35 @@
 {
 	"title": "Party of One",
 	"tags": [
-		"c:Pinkie Pie", 
+		"c:Pinkie Pie",
 		"w:Meghan McCarthy",
-
 		"l:Ponyville",
-
 		"m:Main 6"
-	], 
-
+	],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=kjFDakWS9Nw"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E25.Party.of.One.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:btih:5BC17E7C6B5A82FF72525A0D1A58FE55D4F6CEA7"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=PAvKB0dVyyw"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E25.Party.of.One.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:5BC17E7C6B5A82FF72525A0D1A58FE55D4F6CEA7"
+			}
+		]
 	}
 }

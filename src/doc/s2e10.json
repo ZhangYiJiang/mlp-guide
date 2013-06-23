@@ -1,38 +1,37 @@
 {
-	"title": "Secret of My Excess", 
-
+	"title": "Secret of My Excess",
 	"tags": [
-		"c:Spike",  
+		"c:Spike",
 		"w:M. A. Larson",
-
 		"l:Ponyville",
-
 		"m:Main 6",
 		"m:Cheerilee",
 		"m:Zecora"
 	],
-
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=7czGyseLtfc"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 720p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E10.Secret.of.My.Excess.720p.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:1D8F996966B9DA49944140C65CA2201D3E096822"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=uG90TUqc7ow"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 720p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E10.Secret.of.My.Excess.720p.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:1D8F996966B9DA49944140C65CA2201D3E096822"
+			}
+		]
 	}
 }

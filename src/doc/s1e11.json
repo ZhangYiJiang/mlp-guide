@@ -1,44 +1,39 @@
 {
-	"title": "Winter Wrap Up", 
-
-	"tags":[
+	"title": "Winter Wrap Up",
+	"tags": [
 		"c:Twilight Sparkle",
 		"s:Musical",
 		"s:Song × 1",
 		"w:Cindy Morrow",
-
 		"l:Ponyville",
 		"m:Main 6",
 		"m:Mayor Mare"
 	],
-
-	"song": [
-
-	], 
-
+	"song": [],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=F2yWC8xnddY"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E11.Winter.Wrap.Up.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:btih:968E3FE6865E8A1A02C5A8A72EBF8463C633FFBA"
-		}]
-
-		
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=Q0CpoIfMRhY"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575915802"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E11.Winter.Wrap.Up.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:968E3FE6865E8A1A02C5A8A72EBF8463C633FFBA"
+			}
+		]
 	}
 }

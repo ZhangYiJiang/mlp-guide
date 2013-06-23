@@ -1,40 +1,42 @@
 {
-	"title": "The Return of Harmony - Part 2", 
+	"title": "The Return of Harmony - Part 2",
 	"tags": [
-		"c:Main 6", 
-		"s:Adventure", 
-		"w:M. A. Larson", 
-
-		"l:Ponyville", 
-		"l:Canterlot", 
-		
+		"c:Main 6",
+		"s:Adventure",
+		"w:M. A. Larson",
+		"l:Ponyville",
+		"l:Canterlot",
 		"m:Celestia",
 		"m:Discord"
-	], 
-
-	"continuity": ["s1e02", "s2e01"], 
-
+	],
+	"continuity": [
+		"s1e02",
+		"s2e01"
+	],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "http://www.youtube.com/watch?v=UyYwkbHVoMk"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E02.The.Return.of.Harmony.Part.2.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:26B3D7452A46BB90CF7CC7D0F3FBF5C631505F35"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=J6_OugkWU10"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E02.The.Return.of.Harmony.Part.2.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:26B3D7452A46BB90CF7CC7D0F3FBF5C631505F35"
+			}
+		]
 	}
 }

@@ -1,43 +1,44 @@
 {
-	"title": "Luna Eclipsed", 
-
+	"title": "Luna Eclipsed",
 	"tags": [
-		"c:Twilight Sparkle", 
-		"c:Luna", 
+		"c:Twilight Sparkle",
+		"c:Luna",
 		"w:M. A. Larson",
-
 		"l:Ponyville",
-
 		"m:Pinkie Pie",
 		"m:Fluttershy",
-		"m:Rainbow Dash", 
+		"m:Rainbow Dash",
 		"m:Zecora",
 		"m:Mayor Mare"
-	], 
-
-	"continuity": ["s1e01", "s1e02"],
-
+	],
+	"continuity": [
+		"s1e01",
+		"s1e02"
+	],
 	"watch": {
-		"Streaming": [{
-			"title": "YouTube", 
-			"class": "youtube",
-			"url": "https://www.youtube.com/watch?v=fPfX-E6OlCc"
-		}],
-
-
-		"Download": [{
-			"title": "iTunes HD (USD2.99)", 
-			"class": "itunes",
-			"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
-		},
-		{
-			"title": "PonyShip.tk 1080p Direct",
-			"class": "direct",
-			"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E04.Luna.Eclipsed.mp4"
-		}, {
-			"title": "YayPonies 1080p Torrent",
-			"class": "torrent",
-			"url": "magnet:?xt=urn:F4842E19996F3E4817DA1177654FF3EDB3BD8312"
-		}]
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/watch?v=DdazI0ZgH-Q"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E04.Luna.Eclipsed.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:F4842E19996F3E4817DA1177654FF3EDB3BD8312"
+			}
+		]
 	}
 }
