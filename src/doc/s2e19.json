@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=-i8NMausV9s"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwqm6m_mlp-fim-s2-e19-putting-your-hoof-down-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

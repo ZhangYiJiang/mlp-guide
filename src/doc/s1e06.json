@@ -16,6 +16,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=VQMhPocxTXk"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwmn6x_mlp-fim-s1-e6-boast-busters-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

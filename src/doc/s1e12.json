@@ -20,6 +20,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=8X_H7rEd_9A"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwnfb3_mlp-fim-s1-e12-call-of-the-cutie-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

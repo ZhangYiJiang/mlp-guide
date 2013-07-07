@@ -22,6 +22,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=cJLP5Piy8-k"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwq442_mlp-fim-s2-e12-family-appreciation-day-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

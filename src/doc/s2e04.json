@@ -21,6 +21,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=DdazI0ZgH-Q"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwpqnb_mlp-fim-s2-e4-luna-eclipsed-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

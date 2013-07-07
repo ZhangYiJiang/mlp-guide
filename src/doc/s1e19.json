@@ -13,6 +13,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=cuKB2aRuRcI"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwotl0_mlp-fim-s1-e19-a-dog-and-pony-show-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

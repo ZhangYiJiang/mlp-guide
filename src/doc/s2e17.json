@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=jS1CyeY1jVY"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwqdsv_mlp-fim-s2-e17-hearts-and-hooves-day-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

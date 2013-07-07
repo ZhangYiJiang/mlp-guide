@@ -13,6 +13,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=P4MVFBj9J00"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwrikl_mlp-fim-s3-e3-too-many-pinkie-pies-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

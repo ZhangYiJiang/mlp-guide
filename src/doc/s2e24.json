@@ -14,6 +14,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=wPE1qUolRjU"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwr045_mlp-fim-s2-e24-mmmystery-on-the-friendship-express-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

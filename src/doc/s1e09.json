@@ -16,6 +16,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=LLfxgnUiQ5M"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwn8gt_mlp-fim-s1-e9-bridle-gossip-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

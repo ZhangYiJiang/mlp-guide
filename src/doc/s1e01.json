@@ -16,6 +16,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=Ag8L23mUASs"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xz4lpn_mlp-fim-s1-e1-e2-friendship-is-magic-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

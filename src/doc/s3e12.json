@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=o5ZUS4XuWD8"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xxerfx_mlp-fim-s3-e12-games-ponies-play-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

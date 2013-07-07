@@ -14,6 +14,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=bTmSRkIoA9k"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwqaoy_mlp-fim-s2-e16-read-it-and-weep-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

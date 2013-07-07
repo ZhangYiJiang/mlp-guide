@@ -18,6 +18,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=OyxIleSLEME"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwrl7c_mlp-fim-s3-e5-magic-duel-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -14,6 +14,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=BBSfVybSZ7U"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwp4b6_mlp-fim-s1-e24-owl-s-well-that-ends-well-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

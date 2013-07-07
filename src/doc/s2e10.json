@@ -14,6 +14,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=uG90TUqc7ow"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwq1oz_mlp-fim-s2-e10-secret-of-my-excess-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

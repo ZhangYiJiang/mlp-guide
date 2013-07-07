@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=T8xaoq9vYBk"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwo8z2_mlp-fim-s1-e14-suited-for-success-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

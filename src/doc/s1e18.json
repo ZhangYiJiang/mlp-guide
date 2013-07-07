@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=nMY0PndTrow"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwopgm_mlp-fim-s1-e18-the-show-stoppers-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

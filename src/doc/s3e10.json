@@ -20,6 +20,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=iwVpQ47PenI"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwwcpd_mlp-fim-s3-e10-keep-calm-and-flutter-on-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=OpQ_m0rUhGk"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwqxfl_mlp-fim-s2-e23-ponyville-confidential-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

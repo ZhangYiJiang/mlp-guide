@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=yt69DXVVgCI"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwrk0u_mlp-fim-s3-e4-one-bad-apple-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

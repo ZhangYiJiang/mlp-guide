@@ -18,6 +18,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=8f7bJggCNmY"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwq7d1_mlp-fim-s2-e14-the-last-roundup-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

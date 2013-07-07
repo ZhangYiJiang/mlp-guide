@@ -17,6 +17,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=LhRc9HknSW0"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwpn2z_mlp-fim-s2-e3-lesson-zero-hd-no-watermarks_shortfilms&start=1285"
 			}
 		],
 		"Download": [

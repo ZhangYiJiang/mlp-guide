@@ -16,6 +16,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=Q0CpoIfMRhY"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwnczc_mlp-fim-s1-e11-winter-wrap-up-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=nqgfU2mUpi4"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwmr0g_mlp-fim-s1-e7-dragonshy-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

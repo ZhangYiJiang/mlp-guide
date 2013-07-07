@@ -19,6 +19,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "https://www.youtube.com/watch?v=52gLwLnkorg"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwrg1g_mlp-fim-s3-e1-e2-the-crystal-empire-hd-no-watermarks_shortfilms&start=1285"
 			}
 		],
 		"Download": [

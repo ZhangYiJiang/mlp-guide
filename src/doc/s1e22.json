@@ -13,6 +13,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=BbqVhrfY8qY"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwp19d_mlp-fim-s1-e22-a-bird-in-the-hoof-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -12,6 +12,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=PAvKB0dVyyw"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwp5hl_mlp-fim-s1-e25-party-of-one-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

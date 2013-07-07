@@ -18,6 +18,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=U9NFR61td98"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwp34u_mlp-fim-s1-e23-the-cutie-mark-chronicles-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

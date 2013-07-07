@@ -719,6 +719,7 @@ img.octorainbow {
 .direct { background-position: center -184px; }
 .torrent { background-position: center -280px; }
 .none { background-position: center -376px; }
+.dailymotion { background-position: center -472px; }
 
 /* Stupid Chrome */
 input[type="search"] {

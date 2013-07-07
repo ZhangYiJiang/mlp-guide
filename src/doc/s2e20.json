@@ -18,6 +18,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=gvGoKXSQuQo"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwqog2_mlp-fim-s2-e20-it-s-about-time-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

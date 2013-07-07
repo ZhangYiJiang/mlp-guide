@@ -16,6 +16,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=7HBb0S8eYK4"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwobaa_mlp-fim-s1-e15-feeling-pinkie-keen-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

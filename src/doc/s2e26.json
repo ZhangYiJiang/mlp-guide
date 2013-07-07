@@ -16,6 +16,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=bw3ycvSyykc"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwr2rv_mlp-fim-s2-e25-e26-a-canterlot-wedding-hd-no-watermarks_shortfilms&start=1285"
 			}
 		],
 		"Download": [

@@ -13,6 +13,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=Bj4zRRbew8c"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwq2ss_mlp-fim-s2-e11-hearth-s-warming-eve-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

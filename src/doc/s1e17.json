@@ -17,6 +17,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=miFjx6O7XeQ"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwoh8r_mlp-fim-s1-e17-stare-master-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -13,6 +13,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=dyWxJxAx28E"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwnagz_mlp-fim-s1-e10-swarm-of-the-century-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -18,6 +18,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=QUNooAWohCI"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwpzhr_mlp-fim-s2-e8-the-mysterious-mare-do-well-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

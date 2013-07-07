@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=TY8zS4u_4qM"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwnl91_mlp-fim-s1-e13-fall-weather-friends-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=2j4SRjc2s1U"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwm3lt_mlp-fim-s1-e5-griffon-the-brush-off-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

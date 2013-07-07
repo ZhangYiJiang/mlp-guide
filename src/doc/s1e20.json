@@ -15,6 +15,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=UratjWuqde8"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwow0w_mlp-fim-s1-e20-green-isn-t-your-color-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [

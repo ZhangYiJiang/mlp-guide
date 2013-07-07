@@ -18,6 +18,11 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/watch?v=puYgMpIqa5s"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/xwpjtm_mlp-fim-s2-e1-e2-the-return-of-harmony-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [
