@@ -58,6 +58,14 @@ html
               | Watched
               input(type='checkbox')
             h2 Season #{helper.numberToWord(seasonNumber + 1, true)}
+            div.batch
+              h3 Playlist/Batch Download ▼
+              div.batch-option
+                each source in seasonData[seasonNumber]
+                  a(href=source.url, target='_blank') 
+                    span(class=source.class) 
+                    | #{source.title}
+
           ol.episode-list
             each episode, epCount in season 
               li(id=episode.id, data-continuity=episode.continuityData)

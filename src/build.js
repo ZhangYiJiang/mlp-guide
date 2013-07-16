@@ -9,6 +9,7 @@ var fs = require('fs'),
 // Read config, tags and list of episodes 
 var data = readJSON('config.json'), 
 	tagCategory = readJSON('tags.json'),
+	seasonData = readJSON('season.json'),
 	episodeList = fs.readdirSync('doc'), 
 	seasons = [];
 
@@ -51,6 +52,7 @@ episodeList.forEach(function(filename){
 
 data = _.extend(data, { 
 	'seasons': seasons, 
+	'seasonData': seasonData,
 	'helper': helper, 
 	'_': _
 });

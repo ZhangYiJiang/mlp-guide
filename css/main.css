@@ -150,9 +150,12 @@ span.top-button {
 }
 
 span.top-button:hover, 
+.nav-wrapper > div:hover > span.top-button, 
 div.second-title a:hover {
 	background-color: #F270B1;
 }
+
+
 
 nav.top-bar > div > div {
 	float: right;
@@ -426,6 +429,65 @@ div.search input:focus {
 	cursor: pointer;
 }
 
+.batch {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.batch h3 {
+	float: right;
+
+	font-size: 15px;
+	font-family: Oswald;
+
+	cursor: pointer;
+	padding: 10px 12px 12px;
+}
+
+.batch h3:hover, 
+.batch:hover h3 {
+	background-color: #F270B1;
+}
+
+.batch-option {
+	display: none;
+	background-color: #F270B1;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+
+	position: absolute;
+	right: 0;
+	top: 36px;
+	width: 200px;
+}
+
+.batch-option a {
+	clear: both;
+	color: #FFFFFF;
+	display: block;
+	height: 36px;
+	line-height: 28px;
+	padding: 4px 12px;
+	text-decoration: none;
+}
+
+.batch-option a:hover {
+	background-color: #EE4A9D;
+}
+
+.batch-option a span {
+	background-image: url("../img/sprite-download.png");
+	width: 32px;
+	height: 40px;
+	float: left;
+	margin: -6px 10px 0 0;
+}
+
+.batch h3:hover + .batch-option, 
+.batch-option:hover {
+	display: block;
+}
+
 .number-heading {
 	position: absolute;
 	top: 8px;
@@ -601,7 +663,7 @@ span.title-highlight {
 	background: #666;
 }
 
-.watch div a {
+.watch a {
 	height: 40px;
 	width: 70px;
 	padding-top: 44px;
@@ -620,11 +682,11 @@ span.title-highlight {
 	background-image: url('../img/sprite-download.png');
 }
 
-.watch div a:hover {
+.watch a:hover {
 	background-color: rgba(255, 255, 255, 0.1);
 }
 
-.watch div a:last-child {
+.watch a:last-child {
 	margin-right: 0;
 }
 

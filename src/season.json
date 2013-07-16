@@ -2,7 +2,11 @@
 	[{
 		"title": "YouTube Playlist", 
 		"class": "youtube",
-		"url": "http://www.youtube.com/playlist?list=PLcalPaw7P4tKeuNYANMhrVKOic_BN9F_4"
+		"url": "http://www.youtube.com/playlist?list=PL0VEnBULkAjo7G2xKQnNwrDz6vXcmobh0"
+	},{
+		"title": "Dailymotion Playlist", 
+		"class": "dailymotion",
+		"url": "http://www.dailymotion.com/playlist/x2emfc_MysteriousBrony_mlp-season-1/1?tabs_selected=playlist#video=xz4lpn"
 	},{
 		"title": "Batch Torrent", 
 		"class": "torrent",
@@ -17,7 +21,11 @@
 	[{
 		"title": "YouTube Playlist", 
 		"class": "youtube",
-		"url": "http://www.youtube.com/playlist?list=PLcalPaw7P4tIMmu5_IZp8CTxzq54koo9Z"
+		"url": "http://www.youtube.com/playlist?list=PL0VEnBULkAjrc5AsUfa5PCTOcdE_umsIZ"
+	},{
+		"title": "Dailymotion Playlist", 
+		"class": "dailymotion",
+		"url": "http://www.dailymotion.com/playlist/x2emfe_MysteriousBrony_mlp-season-2/1#video=xwpjtm"
 	},{
 		"title": "Batch Torrent", 
 		"class": "torrent",
@@ -32,7 +40,11 @@
 	[{
 		"title": "YouTube Playlist", 
 		"class": "youtube",
-		"url": "http://www.youtube.com/playlist?list=PLcalPaw7P4tKzx_aDvaSazhqVLNBnogy-"
+		"url": "http://www.youtube.com/playlist?list=PL0VEnBULkAjp9R7827paVC5KMX2kfSLNG"
+	},{
+		"title": "Dailymotion Playlist", 
+		"class": "dailymotion",
+		"url": "http://www.dailymotion.com/playlist/x2emfj_MysteriousBrony_mlp-season-3/1#video=xwrg1g"
 	},{
 		"title": "Batch Torrent", 
 		"class": "torrent",
@@ -41,6 +53,6 @@
 	{
 		"title": "Batch Download",
 		"class": "direct",
-		"url": "http://ponyship.tk/s3.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.zip"
+		"url": "http://ponyship.tk/s3.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.zip "
 	}]
 ]
