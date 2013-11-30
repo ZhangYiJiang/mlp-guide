@@ -1,9 +1,5 @@
 [
 	[{
-		"title": "YouTube Playlist", 
-		"class": "youtube",
-		"url": "http://www.youtube.com/playlist?list=PL0VEnBULkAjo7G2xKQnNwrDz6vXcmobh0"
-	},{
 		"title": "Dailymotion Playlist", 
 		"class": "dailymotion",
 		"url": "http://www.dailymotion.com/playlist/x2emfc_MysteriousBrony_mlp-season-1/1?tabs_selected=playlist#video=xz4lpn"
@@ -19,10 +15,6 @@
 	}], 
 
 	[{
-		"title": "YouTube Playlist", 
-		"class": "youtube",
-		"url": "http://www.youtube.com/playlist?list=PL0VEnBULkAjrc5AsUfa5PCTOcdE_umsIZ"
-	},{
 		"title": "Dailymotion Playlist", 
 		"class": "dailymotion",
 		"url": "http://www.dailymotion.com/playlist/x2emfe_MysteriousBrony_mlp-season-2/1#video=xwpjtm"
@@ -38,10 +30,6 @@
 	}],
 
 	[{
-		"title": "YouTube Playlist", 
-		"class": "youtube",
-		"url": "http://www.youtube.com/playlist?list=PL0VEnBULkAjp9R7827paVC5KMX2kfSLNG"
-	},{
 		"title": "Dailymotion Playlist", 
 		"class": "dailymotion",
 		"url": "http://www.dailymotion.com/playlist/x2emfj_MysteriousBrony_mlp-season-3/1#video=xwrg1g"
@@ -53,6 +41,17 @@
 	{
 		"title": "Batch Download",
 		"class": "direct",
-		"url": "http://ponyship.tk/s3.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.zip "
+		"url": "http://ponyship.tk/s3.1080pi/MLP.FiM.Season.1.1080p.iTunes.CC.zip"
+	}], 
+
+	[{
+		"title": "Dailymotion Playlist", 
+		"class": "dailymotion",
+		"url": "http://www.dailymotion.com/playlist/x2h3zl_MysteriousBrony_mlp-season-4/1"
+	},
+	{
+		"title": "Batch Download",
+		"class": "direct",
+		"url": "http://mlpeps.tk/s4.1080pi/"
 	}]
 ]
