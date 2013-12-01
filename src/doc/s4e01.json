@@ -1,0 +1,47 @@
+{
+	"title": "Princess Twilight Sparkle - Part 1",
+	"tags": [
+		"c:Mane 6",
+		"s:Lore",
+		"w:Meghan McCarthy",
+		"l:Canterlot",
+		"l:Ponyville",
+		"l:Everfree Forest",
+		"m:Celestia",
+		"m:Luna"
+	],
+	"continuity": [
+		"s3e13"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/results?search_query=Princess%20Twilight%20Sparkle%20-%20Part%201&filters=long%2C+video%2C+hd"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x17lv4i_mlp-fim-s4-e1-e2-princess-twilight-sparkle-hd-no-watermarks_shortfilms"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E01.Princess.Twilight.Sparkle.Part.1-Ponyship.CC.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:A943CD3B225621D08C70008557797733EB4F0FB2"
+			}
+		]
+	}
+}
