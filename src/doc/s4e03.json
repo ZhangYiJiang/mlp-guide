@@ -1,0 +1,31 @@
+{
+	"title": "Castle Mane-ia",
+	"tags": [
+		"c:Mane 6",
+		"s:Adventure",
+		"w:Josh Haber",
+		"l:Ponyville",
+		"l:Everfree Forest",
+		"m:Celestia",
+		"m:Luna"
+	],
+	"continuity": [
+		"s4e02"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/results?search_query=Castle%20Mane-ia&filters=long%2C+video%2C+hd"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			}
+		]
+	}
+}
