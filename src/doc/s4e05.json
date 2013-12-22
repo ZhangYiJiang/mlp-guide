@@ -1,0 +1,46 @@
+{
+	"title": "Flight to the Finish",
+	"tags": [
+		"c:CMC",
+		"c:Rainbow Dash",
+		"s:Song × 1",
+		"w:Ed Valentine",
+		"l:Ponyville",
+		"l:Crystal Empire",
+		"m:Ms. Harshwhinny"
+	],
+	"continuity": [
+		"s3e12"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "YouTube",
+				"class": "youtube",
+				"url": "http://www.youtube.com/results?search_query=Flight%20to%20the%20Finish&filters=long%2C+video%2C+hd"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x18glct_mlp-fim-s4-e5-flight-to-the-finish-hd-no-watermarks_shortfilms"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "direct",
+				"url": "http://ponyship.tk/s4.1080pi/MLP-FIM.S04E05.Flight.to.the.Finish-Ponyship.CC.mp4"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:EBDE0B0AAFBB983EE20B6E40C07F12EFD02588C4"
+			}
+		]
+	}
+}

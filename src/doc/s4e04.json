@@ -1,28 +1,27 @@
 {
-	"title": "Castle Mane-ia",
+	"title": "Daring Don't",
 	"tags": [
-		"c:Mane 6",
+		"c:Rainbow Dash",
+		"c:Twilight Sparkle",
 		"s:Adventure",
-		"w:Josh Haber",
+		"w:Dave Polsky",
 		"l:Ponyville",
-		"l:Everfree Forest",
-		"m:Celestia",
-		"m:Luna"
+		"m:Daring Do"
 	],
 	"continuity": [
-		"s4e02"
+		"s2e16"
 	],
 	"watch": {
 		"Streaming": [
 			{
 				"title": "YouTube",
 				"class": "youtube",
-				"url": "http://www.youtube.com/results?search_query=Castle%20Mane-ia&filters=long%2C+video%2C+hd"
+				"url": "http://www.youtube.com/results?search_query=Daring%20Don't&filters=long%2C+video%2C+hd"
 			},
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/x17wc14_mlp-fim-s4-e3-castle-mane-ia-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/x186rmo_mlp-fim-s4-e4-daring-don-t-hd-no-watermarks_shortfilms"
 			}
 		],
 		"Download": [
@@ -34,12 +33,12 @@
 			{
 				"title": "PonyShip.tk 1080p Direct",
 				"class": "direct",
-				"url": "http://ponyship.tk/s4.1080pi/MLP-FIM.S04E03.Castle.Mane-ia-Ponyship.CC.mp4"
+				"url": "http://ponyship.tk/s4.1080pi/MLP-FIM.S04E04.Daring.Don%27t-Ponyship.CC.mp4"
 			},
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:btih:D2CD700F8AE28AF2B15168FB77B2A249262BFA48"
+				"url": "magnet:?xt=urn:btih:343307D83CA3AF85A0F6E4D83E5334FE9222CA07"
 			}
 		]
 	}
