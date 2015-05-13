@@ -632,11 +632,23 @@ span.title-highlight {
 	overflow: hidden;
 	background-color: #666;
 	color: #fff;
-	padding: 12px 20px;
+	padding: 0 20px;
 
 	border: 1px solid rgba(0, 0, 0, 0.25);
+	border-top-width: 0;
+	border-bottom-width: 0;
+
 	box-shadow: 0 0 8px rgba(0, 0, 0, 0.6) inset, 0 1px 0 rgba(255, 255, 255, 0.1);
 	text-shadow: 0 1px 0 #000;
+
+	max-height: 0;
+	transition: all 0.2s;
+}
+
+.watch.opened {
+	border-width: 1px; 
+	padding: 12px 20px;
+	max-height: 160px;
 }
 
 .watch div {
@@ -735,7 +747,7 @@ span.title-highlight {
 	margin-right: 20px;
 }
 
-.spoiler, .watch {
+.spoiler {
 	display: none;
 }
 

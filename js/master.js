@@ -168,13 +168,7 @@ var EpisodeView = Backbone.View.extend({
 	},
 
 	toggleWatchOption: function(visible) {
-		this.watchEle.stop(true);
-
-		if (visible) {
-			this.watchEle.slideDown(200);
-		} else {
-			this.watchEle.slideUp(200);
-		}
+		this.watchEle.toggleClass('opened', visible); 
 	},
 
 	watch: function(evt) {
