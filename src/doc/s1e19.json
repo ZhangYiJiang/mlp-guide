@@ -29,11 +29,11 @@
 			{
 				"title": "iTunes HD (USD2.99)",
 				"class": "itunes",
-				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916628"
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575916785"
 			},
 			{
 				"title": "PonyShip.tk 1080p Direct",
-				"class": "direct",
+				"class": "ponyship-direct",
 				"url": "http://ponyship.tk/s1.1080pi/MLP.FiM.S01E19.A.Dog.and.Pony.Show.mp4"
 			},
 			{

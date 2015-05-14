@@ -28,6 +28,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:1124C909B368B226943261EC46E3E326F000F725"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E09.Pinkie.Apple.Pie-Ponyship.CC.mp4"
 			}
 		]
 	}

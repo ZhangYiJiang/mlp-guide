@@ -26,6 +26,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:0223265331CF6F310E2949BCDC5D4F858E14DDBC"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E17.Somepony.to.Watch.Over%20Me-Ponyship.CC.mp4"
 			}
 		]
 	}

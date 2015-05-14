@@ -27,6 +27,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:54A09070F01EBEDB3B9E5407E4D62C2E71AC488F"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E19.For.Whom.the.Sweetie.Belle.Toils-Ponyship.CC.mp4"
 			}
 		]
 	}

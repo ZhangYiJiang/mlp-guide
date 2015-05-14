@@ -3,10 +3,10 @@
 	"tags": [
 		"c:Rarity",
 		"s:Song × 2",
-		"s:Musical", 
+		"s:Musical",
 		"w:Dave Polsky",
 		"m:Mane 6",
-		"m:Suri Polomare", 
+		"m:Suri Polomare",
 		"m:Coco Pommel",
 		"l:Manehattan"
 	],
@@ -28,6 +28,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:D3D2DA242E653B4E8F2C9F5019A9A970B931EB6F"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E08.Rarity.Takes.Manehattan-Ponyship.CC.mp4"
 			}
 		]
 	}

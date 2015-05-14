@@ -29,11 +29,11 @@
 			{
 				"title": "iTunes HD (USD2.99)",
 				"class": "itunes",
-				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575917437"
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id575911918"
 			},
 			{
 				"title": "PonyShip.tk 1080p Direct",
-				"class": "direct",
+				"class": "ponyship-direct",
 				"url": "http://ponyship.tk/s2.1080pi/MLP-FIM.S02E22.Hurricane.Fluttershy.mp4"
 			},
 			{

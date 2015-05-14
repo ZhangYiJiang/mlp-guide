@@ -1,12 +1,12 @@
 {
 	"title": "Bats!",
 	"tags": [
-		"c:Applejack", 
-		"c:Fluttershy", 
+		"c:Applejack",
+		"c:Fluttershy",
 		"s:Song × 1",
 		"s:Musical",
-		"w:Merriwether Williams", 
-		"m:Mane 6", 
+		"w:Merriwether Williams",
+		"m:Mane 6",
 		"l:Ponyville"
 	],
 	"watch": {
@@ -27,6 +27,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:BFC50E15A4194B3013D6A681B838C3FBBC2EBDC7"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E07.Bats!-Ponyship.CC.mp4"
 			}
 		]
 	}

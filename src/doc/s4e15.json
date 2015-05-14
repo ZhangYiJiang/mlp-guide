@@ -1,7 +1,7 @@
 {
 	"title": "Twilight Time",
 	"tags": [
-		"c:Twilight Sparkle", 
+		"c:Twilight Sparkle",
 		"c:CMC",
 		"s:Slice of Life",
 		"w:Dave Polsky",
@@ -25,6 +25,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:4B5F429CC3903FE29D408E13FA674648B40253A9"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E15.Twilight.Time-Ponyship.CC.mp4"
 			}
 		]
 	}

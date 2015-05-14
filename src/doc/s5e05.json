@@ -1,11 +1,11 @@
 {
 	"title": "Tanks for the Memories",
 	"tags": [
-		"c:Rainbow Dash", 
+		"c:Rainbow Dash",
 		"s:Song × 1",
 		"s:Musical",
 		"s:Slice of Life",
-		"w:Cindy Morrow", 
+		"w:Cindy Morrow",
 		"m:Mane 6"
 	],
 	"watch": {
@@ -26,6 +26,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:9BCFD111D456F8059003CC5BF0417E90EC8A2B6F"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
 			}
 		]
 	}

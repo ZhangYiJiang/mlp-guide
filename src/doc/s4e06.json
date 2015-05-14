@@ -36,6 +36,11 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:CA8D663414E99DEB377A942588B23408D274538E"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E06.Power.Ponies-Ponyship.CC.mp4"
 			}
 		]
 	}

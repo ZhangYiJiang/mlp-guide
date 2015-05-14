@@ -3,7 +3,7 @@
 	"tags": [
 		"c:Fluttershy",
 		"w:Natasha Levinger",
-		"m:Mane 6", 
+		"m:Mane 6",
 		"l:Ponyville"
 	],
 	"watch": {
@@ -24,6 +24,16 @@
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
 				"url": "magnet:?xt=urn:btih:D8C123D257EABED0DBFF429F38FB79308FAF8B5E"
+			},
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			},
+			{
+				"title": "PonyShip.tk 1080p Direct",
+				"class": "ponyship-direct",
+				"url": "http://mlpeps.tk/s4.1080pi/MLP-FIM.S04E16.It.Ain%27t.Easy.Being.Breezies-Ponyship.CC.mp4"
 			}
 		]
 	}
