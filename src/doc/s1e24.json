@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwp4b6_mlp-fim-s1-e24-owl-s-well-that-ends-well-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwp4b6"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-024-Owl-s-Well-That-Ends-Well?id=7605"
 			}
 		],
 		"Download": [

@@ -21,7 +21,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwpn2z_mlp-fim-s2-e3-lesson-zero-hd-no-watermarks_shortfilms&start=1285"
+				"url": "http://www.dailymotion.com/video/xwpn2z"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-003-Lesson-Zero?id=7610"
 			}
 		],
 		"Download": [
@@ -38,7 +43,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:3804F321A465FE1AA759776810C840BA224E3AB1"
+				"url": "magnet:?xt=urn:btih:1200F9FF0D3E1DC0354322E60D3A95201706F942"
 			}
 		]
 	}

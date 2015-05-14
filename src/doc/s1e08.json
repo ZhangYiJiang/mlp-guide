@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwmsuh_mlp-fim-s1-e8-look-before-you-sleep-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwmsuh"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-008-Look-Before-You-Sleep?id=7589"
 			}
 		],
 		"Download": [

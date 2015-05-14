@@ -6,9 +6,8 @@
 		"s:Song × 1",
 		"w:Cindy Morrow",
 		"l:Ponyville",
-		"m:Apple Bloom",
 		"m:Bab Seed",
-		"m:Granny Smith"
+		"m:Apple Family"
 	],
 	"continuity": [
 		"s3e04"
@@ -23,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwrpbe_mlp-fim-s3-e8-apple-family-reunion-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwrpbe"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-008-Apple-Family-Reunion?id=7630"
 			}
 		],
 		"Download": [

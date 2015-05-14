@@ -24,7 +24,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwwcpd_mlp-fim-s3-e10-keep-calm-and-flutter-on-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwwcpd"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-010-Keep-Calm-and-Flutter-On?id=7632"
 			}
 		],
 		"Download": [

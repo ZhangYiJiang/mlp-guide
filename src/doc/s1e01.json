@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xz4lpn_mlp-fim-s1-e1-e2-friendship-is-magic-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xz4lpn"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-001-Friendship-Is-Magic-Pt-1?id=7582"
 			}
 		],
 		"Download": [

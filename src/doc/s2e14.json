@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwq7d1_mlp-fim-s2-e14-the-last-roundup-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwq7d1"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-014-The-Last-Roundup?id=7621"
 			}
 		],
 		"Download": [
@@ -39,7 +44,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:53B07F5C9D0FEAC7D324A8E5CE32E8C0D8EF1C81"
+				"url": "magnet:?xt=urn:btih:42AACC86748FE65EB9A0AC344409B0476D2DBBA8"
 			}
 		]
 	}

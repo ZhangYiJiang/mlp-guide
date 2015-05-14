@@ -1,0 +1,32 @@
+{
+	"title": "Castle Sweet Castle",
+	"tags": [
+		"c:Mane 6",
+		"s:Slice of Life",
+		"s:Song × 1",
+		"w:Joanna Lewis",
+		"w:Kristine Songco",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x2mjkfz"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-05/Episode-003?id=49869"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:387FA725D38046B64BD18E1DB1F4859362278B82"
+			}
+		]
+	}
+}

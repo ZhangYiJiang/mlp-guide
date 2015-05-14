@@ -1,0 +1,34 @@
+{
+	"title": "Pinkie Apple Pie",
+	"tags": [
+		"c:Pinkie Pie",
+		"c:Applejack",
+		"s:Song × 1",
+		"s:Adventure",
+		"w:Natasha Levinger",
+		"m:Apple Family",
+		"m:Goldie Delicious",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x19n048"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-009-Pinkie-Apple-Pie?id=7695"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:1124C909B368B226943261EC46E3E326F000F725"
+			}
+		]
+	}
+}

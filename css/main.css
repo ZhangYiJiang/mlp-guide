@@ -599,7 +599,7 @@ span.title-highlight {
 }
 
 .episodes header .tags {
-	width: 400px;
+	width: 440px;
 	text-align: right;
 
 	right: 4px;
@@ -794,6 +794,7 @@ img.octorainbow {
 .torrent { background-position: center -280px; }
 .none { background-position: center -376px; }
 .dailymotion { background-position: center -472px; }
+.kisscartoon { background-position: center -568px; }
 
 /* Stupid Chrome */
 input[type="search"] {

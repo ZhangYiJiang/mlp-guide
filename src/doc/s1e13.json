@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwnl91_mlp-fim-s1-e13-fall-weather-friends-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwnl91"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-013-Fall-Weather-Friends?id=7594"
 			}
 		],
 		"Download": [

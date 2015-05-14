@@ -1,0 +1,30 @@
+{
+	"title": "It Ain't Easy Being Breezies",
+	"tags": [
+		"c:Fluttershy",
+		"w:Natasha Levinger",
+		"m:Mane 6", 
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1eebla"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-016-It-Ain-t-Easy-Being-Breezies?id=7702"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:D8C123D257EABED0DBFF429F38FB79308FAF8B5E"
+			}
+		]
+	}
+}

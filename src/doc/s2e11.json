@@ -17,7 +17,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwq2ss_mlp-fim-s2-e11-hearth-s-warming-eve-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwq2ss"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-011-Hearth-s-Warming-Eve?id=7618"
 			}
 		],
 		"Download": [
@@ -34,7 +39,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:95AE28A9C01275440C045F65D899A14BECFA7756"
+				"url": "magnet:?xt=urn:btih:3848943BA9D5F691FB2B62EC7188A7FF7C7BA03E"
 			}
 		]
 	}

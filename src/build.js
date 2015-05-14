@@ -5,9 +5,8 @@ var fs = require('fs'),
 	_ = require('underscore');
 
 
-
 // Read config, tags and list of episodes 
-var data = readJSON('config.json'), 
+var config = readJSON('config.json'), 
 	tagCategory = readJSON('tags.json'),
 	seasonData = readJSON('season.json'),
 	episodeList = fs.readdirSync('doc'), 
@@ -50,22 +49,23 @@ episodeList.forEach(function(filename){
 	seasons[episodeSeason][episodeCount] = episodeData;
 });
 
-data = _.extend(data, { 
-	'seasons': seasons, 
-	'seasonData': seasonData,
-	'helper': helper, 
-	'_': _
+// Load Jade template; render 
+var template = jade.compileFile(path.join(__dirname, 'guide.jade'), {
+	pretty: true, 
+	compileDebug: true
 });
 
-// Load Jade template; render 
-var template = jade.compile(fs.readFileSync('guide.jade', { 'encoding': 'utf8' }), {
-	'pretty': true, 
-	'filename': path.join(__dirname, 'guide.jade')
-});
+var data = {
+	seasons: seasons, 
+	seasonData: seasonData,
+	helper: helper, 
+	_: _, 
+	config: config
+}; 
 
 var output = template(data);
 
-fs.writeFileSync(data.fileName, output);
+fs.writeFileSync(config.fileName, output);
 
 // Utility functions 
 function readJSON (file) {

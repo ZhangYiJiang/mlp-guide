@@ -14,6 +14,16 @@
 				"title": "YouTube",
 				"class": "youtube",
 				"url": "http://www.youtube.com/results?search_query=Power%20Ponies&filters=long%2C+video%2C+hd"
+			},
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x18rza3"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-006-Power-Ponies?id=7692"
 			}
 		],
 		"Download": [
@@ -21,6 +31,11 @@
 				"title": "iTunes HD (USD2.99)",
 				"class": "itunes",
 				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id727332784"
+			},
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:CA8D663414E99DEB377A942588B23408D274538E"
 			}
 		]
 	}

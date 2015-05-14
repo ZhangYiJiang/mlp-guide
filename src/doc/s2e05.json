@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwprpj_mlp-fim-s2-e5-sisterhooves-social-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwprpj"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-005-Sisterhooves-Social?id=7612"
 			}
 		],
 		"Download": [
@@ -35,7 +40,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:D093AA943DFF4ECAB4095A627D04848FF7A550E1"
+				"url": "magnet:?xt=urn:btih:F46476FECA272431A3DCC44DF108BD25E28A8FF1"
 			}
 		]
 	}

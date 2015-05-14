@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwoyze_mlp-fim-s1-e21-over-a-barrel-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwoyze"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-021-Over-a-Barrel?id=7602"
 			}
 		],
 		"Download": [

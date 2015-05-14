@@ -1,0 +1,33 @@
+{
+	"title": "Filli Vanilli",
+	"tags": [
+		"c:Fluttershy",
+		"s:Slice of Life",
+		"s:Song × 2",
+		"w:Amy Keating Rogers",
+		"m:Mane 6",
+		"m:The Pony Tones",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1ceqpd"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-014-Filli-Vanilli?id=7700"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:CAD617BEA0F3183F778749939AD645EB87F0D5BB"
+			}
+		]
+	}
+}

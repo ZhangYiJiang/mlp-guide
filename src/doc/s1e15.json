@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwobaa_mlp-fim-s1-e15-feeling-pinkie-keen-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwobaa"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-015-Feeling-Pinkie-Keen?id=7596"
 			}
 		],
 		"Download": [

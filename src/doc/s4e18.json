@@ -1,0 +1,30 @@
+{
+	"title": "Maud Pie",
+	"tags": [
+		"c:Pinkie Pie",
+		"w:Noelle Benvenuti",
+		"m:Maud Pie",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1hsz78"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-018-Maud-Pie?id=7704"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:5F5A166BA0D77D7EDA41FE9864689EAB1EE1C80A"
+			}
+		]
+	}
+}

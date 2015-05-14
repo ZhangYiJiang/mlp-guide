@@ -17,7 +17,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwrikl_mlp-fim-s3-e3-too-many-pinkie-pies-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwrikl"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-003-Too-Many-Pinkie-Pies?id=7625"
 			}
 		],
 		"Download": [

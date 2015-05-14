@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwow0w_mlp-fim-s1-e20-green-isn-t-your-color-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwow0w"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-020-Green-Isn-t-Your-Color?id=7601"
 			}
 		],
 		"Download": [
@@ -36,7 +41,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:btih:EF5010B5F05EF91C555C941E6389309C6BD54A02"
+				"url": "magnet:?xt=urn:btih:9EAAAA46F807A7AD4196B3AE360CEFB9BB96D1E6"
 			}
 		]
 	}

@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqxfl_mlp-fim-s2-e23-ponyville-confidential-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwqxfl"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-023-Ponyville-Confidential?id=7643"
 			}
 		],
 		"Download": [
@@ -36,7 +41,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:8EB6B0E21A1FC1F9D12C07C8BB8EF4BFE348D592"
+				"url": "magnet:?xt=urn:btih:5EC39C989A0BDDB4F0BAD9D5C4F858E90CAF5B1C"
 			}
 		]
 	}

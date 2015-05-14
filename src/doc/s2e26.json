@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwr2rv_mlp-fim-s2-e25-e26-a-canterlot-wedding-hd-no-watermarks_shortfilms&start=1285"
+				"url": "http://www.dailymotion.com/video/xwr2rv&start=1285"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-026-A-Canterlot-Wedding-Pt-2?id=7646"
 			}
 		],
 		"Download": [
@@ -37,7 +42,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:4624903E5D393C68E804B4EA453735748CAE772A"
+				"url": "magnet:?xt=urn:btih:C7E96E6DB99CD6E5ED1E63DF9B0ECE6C199D4AB1"
 			}
 		]
 	}

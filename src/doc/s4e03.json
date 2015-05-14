@@ -6,6 +6,7 @@
 		"w:Josh Haber",
 		"l:Ponyville",
 		"l:Everfree Forest",
+		"l:Everfree Castle",
 		"m:Celestia",
 		"m:Luna"
 	],
@@ -22,7 +23,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/x17wc14_mlp-fim-s4-e3-castle-mane-ia-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/x17wc14"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-003-Castle-Mania?id=7689"
 			}
 		],
 		"Download": [

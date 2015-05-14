@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqm6m_mlp-fim-s2-e19-putting-your-hoof-down-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwqm6m"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-019-Putting-Your-Hoof-Down?id=7639"
 			}
 		],
 		"Download": [
@@ -36,7 +41,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:56CD6D14170E738C979F2B1F085C3C397759477B"
+				"url": "magnet:?xt=urn:btih:9BDE8F307492BC71C822C41511FBC1E72048E7C1"
 			}
 		]
 	}

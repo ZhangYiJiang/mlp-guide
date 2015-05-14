@@ -24,7 +24,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwnfb3_mlp-fim-s1-e12-call-of-the-cutie-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwnfb3"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-012-Call-of-the-Cutie?id=7593"
 			}
 		],
 		"Download": [

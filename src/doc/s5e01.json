@@ -1,0 +1,33 @@
+{
+	"title": "The Cutie Map - Part 1",
+	"tags": [
+		"c:Mane 6",
+		"s:Adventure",
+		"s:Song × 1",
+		"w:Scott Sonneborn",
+		"w:M.A. Larson",
+		"m:Starlight Glimmer",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x2lzi1m"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-05/Episode-001-002?id=48323"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:3DEC68567DE29146269F7D8D1951684F98401FB3"
+			}
+		]
+	}
+}

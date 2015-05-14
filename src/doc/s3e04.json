@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwrk0u_mlp-fim-s3-e4-one-bad-apple-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwrk0u"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-004-One-Bad-Apple?id=7626"
 			}
 		],
 		"Download": [

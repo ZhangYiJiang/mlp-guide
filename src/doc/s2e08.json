@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwpzhr_mlp-fim-s2-e8-the-mysterious-mare-do-well-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwpzhr"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-008-The-Mysterious-Mare-Do-Well?id=7615"
 			}
 		],
 		"Download": [
@@ -39,7 +44,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:A9D1C1C29242287C5829FAE6D373DCE5DD0C276C"
+				"url": "magnet:?xt=urn:btih:4F359DCCC4FBFDD103BD55A80A9F02BAB0896C9E"
 			}
 		]
 	}

@@ -1,0 +1,33 @@
+{
+	"title": "Leap of Faith",
+	"tags": [
+		"c:Applejack",
+		"s:Song × 1",
+		"s:Musical",
+		"w:Josh Haber",
+		"m:Flim Flam Brothers",
+		"m:Apple Family",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1kyhg4"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-020-Leap-of-Faith?id=7706"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:6C704EBEBB16E8F71EFEB2A41C06F63ADA4BA636"
+			}
+		]
+	}
+}

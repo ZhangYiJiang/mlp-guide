@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwrnmx_mlp-fim-s3-e7-wonderbolts-academy-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwrnmx"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-007-Wonderbolt-Academy?id=7629"
 			}
 		],
 		"Download": [

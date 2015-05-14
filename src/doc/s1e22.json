@@ -17,7 +17,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwp19d_mlp-fim-s1-e22-a-bird-in-the-hoof-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwp19d"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-022-A-Bird-in-the-Hoof?id=7603"
 			}
 		],
 		"Download": [

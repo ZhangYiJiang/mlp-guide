@@ -1,0 +1,32 @@
+{
+	"title": "Testing Testing 1, 2, 3",
+	"tags": [
+		"c:Twilight Sparkle",
+		"c:Rainbow Dash",
+		"s:Slice of Life",
+		"s:Song × 1",
+		"w:Amy Keating Rogers",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1mi1jf"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-021-Testing-Testing-1-2-3?id=7707"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:D73B695CCDD89EC2D8E398C69AD53085ED3C6AD3"
+			}
+		]
+	}
+}

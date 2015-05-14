@@ -1,0 +1,33 @@
+{
+	"title": "Three's A Crowd",
+	"tags": [
+		"c:Twilight Sparkle",
+		"s:Song × 1",
+		"w:Meghan McCarthy",
+		"w:Ed Valentine",
+		"m:Discord",
+		"m:Princess Cadance",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1agjs8"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-011-Three-s-a-Crowd?id=7697"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:871C79B2DFE23918D977B50A94C940D66A0C02D8"
+			}
+		]
+	}
+}

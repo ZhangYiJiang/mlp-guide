@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwpxls_mlp-fim-s2-e6-the-cutie-pox-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwpxls"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-006-The-Cutie-Pox?id=7613"
 			}
 		],
 		"Download": [
@@ -39,7 +44,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:9D6802B5B834FB3B4D4E3ACBE7936276D82ED0A0"
+				"url": "magnet:?xt=urn:btih:BBDC15F939B50AFBD0006B0EAA0812E64D85B3F6"
 			}
 		]
 	}

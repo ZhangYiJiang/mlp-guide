@@ -2,7 +2,8 @@ doctype html
 html
   head
     meta(charset='utf-8')
-    title #{title}
+    title 
+      =config.title
     link(href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700|Lobster|Oswald:400', 
       media='all', type='text/css', rel='stylesheet')
     link(rel='shortcut icon', href='favicon.png')
@@ -18,48 +19,7 @@ html
     link(rel='stylesheet', type='text/css', href='css/ie.css')
     <![endif]-->
 
-    // If you're reading the source code, I'd just like to let you know that 
-      |  book horse is best horse       ;jjjt                      :;,.              
-      |                                   jt;;tj:                  .jt;;ijjt           
-      |                    .ijGDEEEEEDGLjiji;;;jj.                 jj;;;;;;jj;         
-      |              .jKWWKKEEEEEEEEEEKEKEji;;;;tjGKDLi,.         .jj;;;;;;;;jj:       
-      |            ;KWWEEEEEEEEEEEEEEEEKEEji;it;;jjGKKKKWWWWWWKKEEGjt;;;;;;;;;iji      
-      |          LWWEEEEEEEEEEEEEEEKEEWEEEji;;;;;;tjEDDDDDfffLEEEWDji;;;;;;;t;;;jj     
-      |        ,WWEEEEEEEEEEEEEEEEWEEKEEEEji;;;;;;tjDDDDDffffEEEEWWjt;;;;;;;;j;;;jt    
-      |       LWKEEEEEEEEEEEEEEEEKEEKEEEEEjt;;;;jiDDDDDfffffEEEEEKWLj;;;;;;;;ij;;;j;   
-      |      GWKEEEEEEEEEEEEEEEEKEEEKEEEEEjj;;;;tDDDDDfffffDEEEEKEWWj;;;;;;;;;j;;;tj   
-      |     tWKEEEEEEEEEEEEEEEEKEEEWEEEEEEjj;;;DDDDDDffffffEEEEEKEEWWi;;;;;;;;tt;;;jj  
-      |    .KWEEEEEEEEWEEEEEEEEEEEEEEEEEEEjj;;fDDDDDLffffffEEEEEEKEEKWE;;;;;;;;t;;;jj  
-      |    KKEEEEEEEKWWEEEEEEEWEEEKEEEEEEEGjtGDDDDDDfffffffEEEEEEEEEEEKKWL,;;;;i;;;tj: 
-      |    WWEEEEEEEWWWEEEEEEEKEEEKEEEEEEEEjtDDDDDDLfffffffEEEEEEEKEEEEEKWWWLi;,;;;ij, 
-      |   DWEEEEEEEWWWWEEEEEEEEEEEEEEEEEEEEjDDDDDDDjfffffffjEEEEEEEEKEEEEEEEEKKWWWWWWE 
-      |   KWEEEEEEEWKWWEEEEEEEEEEKEEEEEEEEEDDDDDDDGfffffffffLEEEEEEEEEEEEEEEEEEEEKWWf  
-      |  ;WKEEEEEEKWjWWEEEEEEEKEEWEEEEEEEEEDDDDDDDffffffffffffEEEEEEEEKEEEEEEKWWWf,ji  
-      |  DWEEEEEEEWW,KWEEEEEEEWEEKEEEEEEEEDDDDDDDDjjjjjjffffffLEEEEEKKKWWWWWWWW,;;jj   
-      |  KWEEEEEEEWW,;WKEEEEKKKWWKKKKWWKKKKKEEEEEEEEEEEEEEEDDDWDjKWWWKEWWWE.:E;;;#t    
-      |  KWEEEEEEEWW,,WWWWKKGfj#KfttG#Kt;;;;;;;;;;;;;;;;;;;;;,K WW##     .KKtiWDL,     
-      |  WWEEEEEEEWK,;;;;;t#L#     KWWKD#W,;;;;;;;;;;;;;;;;;;j.WW##W        KK,;tj     
-      | .WWEEEKWWKGj;;Gt;;;;#     KWW    ,#t;;;;;;;;;;;;;;;;;DGK####t        EE;;j,    
-      | .WWKWWE;   tj;;iK#KEL    LKKK     .#G;;;;;;;;;;;;;;;;EEE#####i       :D,;jt    
-      | .WD:        :jf;;;;L     KEEE,      GD;;;;;;;;;;;;;;;GDK#####LGE,    KDj;jj    
-      |               :DWWW#     DDDW#L      #f;;;;;;;;;;;;;;jDE####:   D#####DEitj    
-      |                  jj;     EDDWKLDW;    #,;;;;;;;;;;;;;,KD##############jLttfG.  
-      |                  tj;:    GDDE    E#####G;;;;;;;;;;;;;;#DW############KjEKjj    
-      |                   jj;     EDD###########,;;;;;;;;;;;;;fiDD###########,,;;jj    
-      |                   ij,:    .jfj##########G;;;;;;;;;;;;;,WLDD#########DG;;;j,    
-      |                   fij,     .f,,L#########;;;;;;tjjt;;;;,  DDDDKWKEDDi;;;jt     
-      |                     WEL      ;,,E########;;;;i;;;;;;;;;;t   jDDDDDj;;;;tj      
-      |                    : tGL.      fDDDDDEEDD,;;;;;;;;;;;i;;;;;;;;;;;;;;;;ij:      
-      |                       jj;;       iDDDDDDf,;;;;;;;;;;;j;;;;;;;;;;;;;;;tj.       
-      |                        .jj;;;.        :;;;;;;ti;;;;;;;;j;;;;;;;;;;;;jt         
-      |                          tji;;;;;;;;;;;;;;;;;;;;;;;;;;j;;;;;;;;;;;jj:          
-      |                            ,jj;;;;;;;;;;;;;;;j;;;;;;jj;;;;;;;;;ijj.            
-      |                              ,jjt;;;;;;;;;;;;;ijjjt;;;;;;;;;;jjfKK             
-      |                                  :ijjt;;;;;;;;;;;;;;;;;itjjj;WKEWK             
-      |                                      ijjjjjjjjttjjjjjjjt;;;;iWEEKW             
-      |                                      tj;;;;;;;;;;;;;;;,W,;;,WWEEEWi            
-      |                                      jt;;;;;;;;;;;;;;;jWWEjWWEEEEWK            
-      |                                      j;;;;;;;;;;;;;;;;WWEEEEEEEKEEWL
+    include egg.html
 
     script.
       // Only run analytics code on the main site, and not on any mirrors 
@@ -68,19 +28,19 @@ html
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
+        
         ga('create', 'UA-42528234-1', 'zhangyijiang.github.io');
         ga('send', 'pageview');
       }
   body
     header.page-header
-      a(href=siteURL)
-        h1.page-title !{titleHTML}
+      a(href=config.siteURL)
+        h1.page-title 
+          !=config.titleHTML
       nav.top-bar
         .nav-wrapper
           .second-title
-            a(href=siteURL) Episode Guide
-          
+            a(href=config.siteURL) Episode Guide
 
           .search
             label
@@ -134,7 +94,7 @@ html
                     input(type='checkbox')
                   .tags
                     each tag in episode.tags 
-                      if (!_.contains(spoilerTagCategory, tag.category))
+                      if (!_.contains(config.spoilerTagCategory, tag.category))
                         span(class=['tag', tag.class, tag.category], 
                           data-tag=tag.class, data-category=tag.category) #{tag.name} 
 
@@ -144,7 +104,7 @@ html
                     // p.synopsis #{episode.synopsis}
                   .tags
                     each tag in episode.tags 
-                      if (_.contains(spoilerTagCategory, tag.category))
+                      if (_.contains(config.spoilerTagCategory, tag.category))
                         span(class=['tag', tag.class, tag.category], 
                           data-tag=tag.class, data-category=tag.category) #{tag.name} 
 

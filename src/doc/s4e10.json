@@ -1,0 +1,29 @@
+{
+	"title": "Rainbow Falls",
+	"tags": [
+		"c:Mane 6",
+		"w:Corey Powell",
+		"l:Rainbow Falls"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1a8yu2"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-010-Rainbow-Falls?id=7696"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:D991270CA456463B95B417EF3BF37067847AA26E"
+			}
+		]
+	}
+}

@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwpyea_mlp-fim-s2-e7-may-the-best-pet-win-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwpyea"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-007-May-the-Best-Pet-Win?id=7614"
 			}
 		],
 		"Download": [
@@ -35,7 +40,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:E4F2582F242BA2D8D444231129B606F881B7EF03"
+				"url": "magnet:?xt=urn:btih:87FBC5F62E036ED47FDC8CAC798D1E003DA33A53"
 			}
 		]
 	}

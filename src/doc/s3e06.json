@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/x11bf1t_mlp-fim-s3-e6-sleepless-in-ponyville-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/x11bf1t"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-006-Sleepless-in-Ponyville?id=7628"
 			}
 		],
 		"Download": [
@@ -37,7 +42,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:btih:4C96BD9F216FD04327F7622133260F5315C65103"
+				"url": "magnet:?xt=urn:btih:C370E5B1D4C72D40C4A545D8C48F760ABCDEB0C3"
 			}
 		]
 	}

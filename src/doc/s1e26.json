@@ -23,7 +23,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwp7iw_mlp-fim-s1-e26-the-best-night-ever-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwp7iw"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-026-The-Best-Night-Ever?id=7607"
 			}
 		],
 		"Download": [

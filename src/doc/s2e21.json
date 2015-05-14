@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqql1_mlp-fim-s2-e21-dragon-quest-hd-no-watermarks_videogames"
+				"url": "http://www.dailymotion.com/video/xwqql1"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-021-Dragon-Quest?id=7641"
 			}
 		],
 		"Download": [
@@ -35,7 +40,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:1551B5DE9045AC4C80A04661D67CEE6F409F00AD"
+				"url": "magnet:?xt=urn:btih:F0DE77A873E70B18FE8B1B41031FE0425835F2EE"
 			}
 		]
 	}

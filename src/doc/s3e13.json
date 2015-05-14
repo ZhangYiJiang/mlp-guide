@@ -23,7 +23,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xxkfox_mlp-fim-s3-e13-magical-mystery-cure-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xxkfox"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-013-Magical-Mystery-Cure?id=7635"
 			}
 		],
 		"Download": [

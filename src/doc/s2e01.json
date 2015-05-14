@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwpjtm_mlp-fim-s2-e1-e2-the-return-of-harmony-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwpjtm"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-001-The-Return-of-Harmony-Pt-1?id=7608"
 			}
 		],
 		"Download": [
@@ -39,7 +44,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:D2582DE48CEC90B3E31F9429AFF9C83272E00D1F"
+				"url": "magnet:?xt=urn:btih:099F0D982FD8DC2693B583741503ECFB8E3203A6"
 			}
 		]
 	}

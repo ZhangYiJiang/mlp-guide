@@ -26,7 +26,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwq442_mlp-fim-s2-e12-family-appreciation-day-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwq442"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-012-Family-Appreciation-Day?id=7619"
 			}
 		],
 		"Download": [
@@ -43,7 +48,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:B425919F0E51AB639B507887CD35DE937972BC76"
+				"url": "magnet:?xt=urn:btih:FB6A96598A2BD5524C6E23917AE4963282320C5D"
 			}
 		]
 	}

@@ -23,7 +23,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwrg1g_mlp-fim-s3-e1-e2-the-crystal-empire-hd-no-watermarks_shortfilms&start=1285"
+				"url": "http://www.dailymotion.com/video/xwrg1g"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-001-The-Crystal-Empire-Pt-1?id=7623"
 			}
 		],
 		"Download": [

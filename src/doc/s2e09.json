@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwq0p2_mlp-fim-s2-e9-sweet-and-elite-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwq0p2"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-009-Sweet-and-Elite?id=7616"
 			}
 		],
 		"Download": [
@@ -35,7 +40,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:8EE3C825EBB146C507967B7DE989E71A8D6316EC"
+				"url": "magnet:?xt=urn:btih:F51310912023688D0F5A9896D47A6359646096EA"
 			}
 		]
 	}

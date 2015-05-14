@@ -1,0 +1,31 @@
+{
+	"title": "Twilight Time",
+	"tags": [
+		"c:Twilight Sparkle", 
+		"c:CMC",
+		"s:Slice of Life",
+		"w:Dave Polsky",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1d8fy0"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-015-Twilight-Time?id=7701"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:4B5F429CC3903FE29D408E13FA674648B40253A9"
+			}
+		]
+	}
+}

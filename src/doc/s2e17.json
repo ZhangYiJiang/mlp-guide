@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqdsv_mlp-fim-s2-e17-hearts-and-hooves-day-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwqdsv"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-017-Hearts-and-Hooves-Day?id=7637"
 			}
 		],
 		"Download": [
@@ -36,7 +41,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:4FA2C5763E34FF9BA51841B43D566E0D6D7D92E1"
+				"url": "magnet:?xt=urn:btih:EF3D9D466988BA73C678FC085C31AD656817D5E4"
 			}
 		]
 	}

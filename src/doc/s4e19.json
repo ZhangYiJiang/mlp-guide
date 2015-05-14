@@ -1,0 +1,33 @@
+{
+	"title": "For Whom the Sweetie Belle Toils",
+	"tags": [
+		"c:Sweetie Belle",
+		"s:Adventure",
+		"w:Dave Polsky",
+		"m:Luna",
+		"m:Rarity",
+		"l:Canterlot",
+		"l:Ponyville"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1jrr5n"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-019-For-Whom-the-Sweetie-Bell-Toils?id=7705"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:54A09070F01EBEDB3B9E5407E4D62C2E71AC488F"
+			}
+		]
+	}
+}

@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwq1oz_mlp-fim-s2-e10-secret-of-my-excess-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwq1oz"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-010-Secret-of-My-Excess?id=7617"
 			}
 		],
 		"Download": [
@@ -35,7 +40,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:1D8F996966B9DA49944140C65CA2201D3E096822"
+				"url": "magnet:?xt=urn:btih:00BEA67D72CE535BD4E9B041C12473FED93BC3BE"
 			}
 		]
 	}

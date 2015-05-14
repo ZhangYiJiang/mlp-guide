@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwp34u_mlp-fim-s1-e23-the-cutie-mark-chronicles-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwp34u"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-023-The-Cutie-Mark-Chronicles?id=7604"
 			}
 		],
 		"Download": [

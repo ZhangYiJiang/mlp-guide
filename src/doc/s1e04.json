@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwm0f9_mlp-fim-s1-e4-applebuck-season-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwm0f9"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-004-Applebuck-Season?id=7585"
 			}
 		],
 		"Download": [

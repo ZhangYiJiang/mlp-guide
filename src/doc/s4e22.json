@@ -1,0 +1,29 @@
+{
+	"title": "Trade Ya!",
+	"tags": [
+		"c:Mane 6",
+		"w:Scott Sonneborn",
+		"l:Rainbow Falls"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1q9jif"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-022-Trade-Ya?id=7708"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:1355CE1E460B68DC9478FBB031607D83B311058C"
+			}
+		]
+	}
+}

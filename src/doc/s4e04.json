@@ -21,7 +21,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/x186rmo_mlp-fim-s4-e4-daring-don-t-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/x186rmo"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-004-Daring-Don-t?id=7690"
 			}
 		],
 		"Download": [

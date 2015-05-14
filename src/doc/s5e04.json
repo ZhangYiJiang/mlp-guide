@@ -1,0 +1,32 @@
+{
+	"title": "Bloom & Gloom",
+	"tags": [
+		"c:Apple Bloom",
+		"s:Adventure",
+		"w:Josh Haber",
+		"l:Ponyville",
+		"m:Luna",
+		"m:CMC"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x2nanmo"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-05/Episode-004?id=51604"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:7EC0F46B6EEAB46B35DB3A17EEB193D98534857E"
+			}
+		]
+	}
+}

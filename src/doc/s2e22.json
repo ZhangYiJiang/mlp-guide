@@ -17,7 +17,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqsff_mlp-fim-s2-e22-hurricane-fluttershy-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwqsff"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-022-Hurricane-Fluttershy?id=7642"
 			}
 		],
 		"Download": [
@@ -34,7 +39,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:DDFCDC073C2B876BCFD8550DC73F2E65411B8C01"
+				"url": "magnet:?xt=urn:btih:D3927A91DE9A0A58341C9BDCDCB822FDF0495B23"
 			}
 		]
 	}

@@ -1,0 +1,29 @@
+{
+	"title": "Equestria Games",
+	"tags": [
+		"c:Spike",
+		"w:Dave Polsky",
+		"l:Crystal Empire"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1u8bdm"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-024-Equestria-Games?id=7710"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:555A3B7DD3DB5FDE1C8994AA03A318B30522FBFB"
+			}
+		]
+	}
+}

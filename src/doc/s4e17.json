@@ -1,0 +1,32 @@
+{
+	"title": "Somepony to Watch Over Me",
+	"tags": [
+		"c:Apple Bloom",
+		"c:Applejack",
+		"s:Adventure",
+		"w:Scott Sonneborn",
+		"l:Ponyville",
+		"l:Cajun Swamps"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x1g1e9l"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-04/Episode-017-Somepony-to-Watch-Over-Me?id=7703"
+			}
+		],
+		"Download": [
+			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:0223265331CF6F310E2949BCDC5D4F858E14DDBC"
+			}
+		]
+	}
+}

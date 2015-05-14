@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwn8gt_mlp-fim-s1-e9-bridle-gossip-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwn8gt"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-009-Bridle-Gossip?id=7590"
 			}
 		],
 		"Download": [

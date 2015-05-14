@@ -17,7 +17,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwotl0_mlp-fim-s1-e19-a-dog-and-pony-show-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwotl0"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-019-A-Dog-and-Pony-Show?id=7600"
 			}
 		],
 		"Download": [
@@ -34,7 +39,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:btih:6AA5E52C0230BADD47F064871A08B17FE759DE70"
+				"url": "magnet:?xt=urn:btih:4DBC0A9D2D66611BB444D03A0AFD6529F0EB20C5"
 			}
 		]
 	}

@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwopgm_mlp-fim-s1-e18-the-show-stoppers-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwopgm"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-018-The-Show-Stoppers?id=7599"
 			}
 		],
 		"Download": [

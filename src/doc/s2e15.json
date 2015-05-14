@@ -6,7 +6,9 @@
 		"s:Song × 1",
 		"w:M. A. Larson",
 		"l:Ponyville",
-		"m:Mane 6"
+		"m:Mane 6",
+		"m:Apple Family",
+		"m:Flim Flam Brothers"
 	],
 	"watch": {
 		"Streaming": [
@@ -18,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwq92p_mlp-fim-s2-e15-the-super-speedy-cider-squeezy-6000-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwq92p"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-015-The-Super-Speedy-Cider-Squeezy-6000?id=7622"
 			}
 		],
 		"Download": [
@@ -35,7 +42,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:B55EEA57D11D5A0AA17E2A0036590D27C09CEB22"
+				"url": "magnet:?xt=urn:btih:85593913FFD929FF66812EAF479692ECC2E60B24"
 			}
 		]
 	}

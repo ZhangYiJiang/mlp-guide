@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwlumm_mlp-fim-s1-e3-the-ticket-master-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwlumm"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-003-The-Ticket-Master?id=7584"
 			}
 		],
 		"Download": [

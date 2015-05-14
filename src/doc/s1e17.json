@@ -21,7 +21,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwoh8r_mlp-fim-s1-e17-stare-master-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwoh8r"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-017-Stare-Master?id=7598"
 			}
 		],
 		"Download": [

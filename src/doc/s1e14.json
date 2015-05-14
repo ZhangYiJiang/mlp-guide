@@ -19,7 +19,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwo8z2_mlp-fim-s1-e14-suited-for-success-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwo8z2"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-014-Suited-for-Success?id=7595"
 			}
 		],
 		"Download": [

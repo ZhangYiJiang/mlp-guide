@@ -16,7 +16,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwp5hl_mlp-fim-s1-e25-party-of-one-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwp5hl"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-025-Party-of-One?id=7606"
 			}
 		],
 		"Download": [

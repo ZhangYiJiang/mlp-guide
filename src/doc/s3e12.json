@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xxerfx_mlp-fim-s3-e12-games-ponies-play-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xxerfx"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-012-Games-Ponies-Play?id=7634"
 			}
 		],
 		"Download": [

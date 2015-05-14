@@ -23,7 +23,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xx2903_mlp-fim-s3-e11-just-for-sidekicks-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xx2903"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-03/Episode-011-Just-for-Sidekicks?id=7633"
 			}
 		],
 		"Download": [

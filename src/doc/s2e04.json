@@ -25,7 +25,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwpqnb_mlp-fim-s2-e4-luna-eclipsed-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwpqnb"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-004-Luna-Eclipsed?id=7611"
 			}
 		],
 		"Download": [
@@ -42,7 +47,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:F4842E19996F3E4817DA1177654FF3EDB3BD8312"
+				"url": "magnet:?xt=urn:btih:629C863B99EA95A7553BB917FC9437EFB755A25E"
 			}
 		]
 	}

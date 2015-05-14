@@ -22,7 +22,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqog2_mlp-fim-s2-e20-it-s-about-time-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwqog2"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-020-It-s-About-Time?id=7640"
 			}
 		],
 		"Download": [
@@ -39,7 +44,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:9136CBCE8F1DE0005BFE5CE066ACBDB1DA6EE364"
+				"url": "magnet:?xt=urn:btih:D2CC7DB5B3E4AAC14CACA624F061A3997D9037EF"
 			}
 		]
 	}

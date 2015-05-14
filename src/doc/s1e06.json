@@ -20,7 +20,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwmn6x_mlp-fim-s1-e6-boast-busters-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwmn6x"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-01/Episode-006-Boast-Busters?id=7587"
 			}
 		],
 		"Download": [

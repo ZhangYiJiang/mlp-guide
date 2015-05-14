@@ -18,7 +18,12 @@
 			{
 				"title": "DailyMotion",
 				"class": "dailymotion",
-				"url": "http://www.dailymotion.com/video/xwqezk_mlp-fim-s2-e18-a-friend-in-deed-hd-no-watermarks_shortfilms"
+				"url": "http://www.dailymotion.com/video/xwqezk"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-02/Episode-018-A-Friend-in-Deed?id=7638"
 			}
 		],
 		"Download": [
@@ -35,7 +40,7 @@
 			{
 				"title": "YayPonies 1080p Torrent",
 				"class": "torrent",
-				"url": "magnet:?xt=urn:E2790B88A3FBC1EA3537C58E229211521B0B579B"
+				"url": "magnet:?xt=urn:btih:C791D2742A822FD255DA118CF1EC033ACF3374E8"
 			}
 		]
 	}
