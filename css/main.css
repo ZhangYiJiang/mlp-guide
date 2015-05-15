@@ -338,13 +338,16 @@ div.search input:focus {
 	background: rgba(255, 255, 255, 0.2);
 }
 
+.where-to-watch {
+	line-height: 1.3em;
+}
+
 .where-to-watch > div {
 	margin-bottom: 1em;
 }
 
 .where-to-watch li {
 	margin-bottom: 0.4em;
-	line-height: 1.3em;
 }
 
 .where-to-watch h3 {
