@@ -393,7 +393,8 @@ div.search input:focus {
 
 .season > header {
 	color: #fff;
-	position: relative;
+	position: sticky;
+	top: 36px;
 	
 	padding-top: 6px;
 	background-color: #ED3C95;
