@@ -1,0 +1,35 @@
+{
+	"title": "Make New Friends but Keep Discord",
+	"tags": [
+		"c:Discord",
+		"c:Fluttershy",
+		"w:Natasha Levinger",
+		"m:Mane 6",
+		"m:Celestia",
+		"m:Maud Pie",
+		"m:Treehugger",
+		"l:Ponyville",
+		"l:Canterlot"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x2qfaj6_mlp-fim-s5-e7-make-new-friends-but-keep-discord-hd-tvrip-temporary_shortfilms"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-05/Episode-007?id=54886"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			}
+		]
+	}
+}
