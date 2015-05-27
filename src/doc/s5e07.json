@@ -26,6 +26,11 @@
 		],
 		"Download": [
 			{
+				"title": "YayPonies 1080p Torrent",
+				"class": "torrent",
+				"url": "magnet:?xt=urn:btih:03877DA14B60F951FBF72A69BA97C4E824FBF952"
+			},
+			{
 				"title": "iTunes HD (USD2.99)",
 				"class": "itunes",
 				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"

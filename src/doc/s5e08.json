@@ -1,0 +1,34 @@
+{
+	"title": "The Lost Treasure of Griffonstone",
+	"tags": [
+		"c:Pinkie Pie",
+		"c:Rainbow Dash",
+		"s:Adventure",
+		"w:Amy Keating Rogers",
+		"m:Twilight Sparkle",
+		"m:Gilda",
+		"l:Ponyville", 
+		"l:Griffonstone"
+	],
+	"watch": {
+		"Streaming": [
+			{
+				"title": "DailyMotion",
+				"class": "dailymotion",
+				"url": "http://www.dailymotion.com/video/x2r7acx"
+			},
+			{
+				"title": "KissCartoon",
+				"class": "kisscartoon",
+				"url": "http://kisscartoon.me/Cartoon/My-Little-Pony-Friendship-Is-Magic-Season-05/Episode-008?id=55962"
+			}
+		],
+		"Download": [
+			{
+				"title": "iTunes HD (USD2.99)",
+				"class": "itunes",
+				"url": "https://itunes.apple.com/us/tv-season/my-little-pony-friendship/id975102064"
+			}
+		]
+	}
+}
